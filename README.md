@@ -1,5 +1,7 @@
 # Perspectivas y paradigmas en Inteligencia Artificial
 
+Profesores: [Felipe Bravo Márquez](https://felipebravom.com/) y [Claudio Gutierrez](https://users.dcc.uchile.cl/~cgutierr/)
+
 ## Descripción general
 
 Este curso tiene como propósito desarrollar en las y los estudiantes la capacidad de analizar críticamente la arquitectura conceptual y las tradiciones que sustentan la Inteligencia Artificial contemporánea. Se estudian sus principales paradigmas, fundamentos epistemológicos y metodológicos, así como sus implicancias científicas, filosóficas, éticas y sociales.
