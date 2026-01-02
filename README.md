@@ -104,11 +104,12 @@ Silver, D. et al.
 **Tema:** Razonamiento y conocimiento
 
 **Lecturas obligatorias**
-Brachman, R. y Levesque, H.
-[Knowledge Representation and Reasoning, Capítulo 1](https://drive.google.com/file/d/1aM_hIXAKlP9BJV9MKrU_5msGmO0WFYYI/view)
 
-Nilsson, N.
-[The Quest for Artificial Intelligence, Capítulo 26: Reasoning and Representation](https://drive.google.com/file/d/1a56vhtDabFqd16NaTPOm2gldSLqXhZ7W/view)
+- Brachman, R. y Levesque, H.
+  [Knowledge Representation and Reasoning, Capítulo 1](https://drive.google.com/file/d/1aM_hIXAKlP9BJV9MKrU_5msGmO0WFYYI/view)
+
+- Nilsson, N.
+  [The Quest for Artificial Intelligence, Capítulo 26: Reasoning and Representation](https://drive.google.com/file/d/1a56vhtDabFqd16NaTPOm2gldSLqXhZ7W/view)
 
 **Presentación estudiantes**
 Davis, R., Shrobe, H. y Szolovits, P.
@@ -135,11 +136,12 @@ Marr, D.
 **Tema:** Lenguaje
 
 **Lecturas obligatorias**
-Smith, N. A.
-[Contextual Word Representations: A Contextual Introduction](https://drive.google.com/file/d/1x8c1agNE9fv0GxRdpafDsUTynpRNiUw3/view?usp=sharing)
 
-Bender, E. y Koller, A.
-[Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://drive.google.com/file/d/1A88jm5C7vsIf8k0uu3_eponZRFel58t3/view)
+- Smith, N. A.
+  [Contextual Word Representations: A Contextual Introduction](https://drive.google.com/file/d/1x8c1agNE9fv0GxRdpafDsUTynpRNiUw3/view?usp=sharing)
+
+- Bender, E. y Koller, A.
+  [Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://drive.google.com/file/d/1A88jm5C7vsIf8k0uu3_eponZRFel58t3/view)
 
 **Presentación estudiantes**
 Brown, T. et al.
@@ -166,11 +168,12 @@ Friston, K.
 **Tema:** Conciencia
 
 **Lecturas obligatorias**
-Chalmers, D.
-[The Conscious Mind, Capítulo 1](https://drive.google.com/file/d/1USqaUs0lCnfDVeS0PT-Fd1hAK9EjehMH/view)
 
-Chalmers, D.
-[Could a Large Language Model be Conscious?](https://drive.google.com/file/d/14fshOGNmL4XK9ta0sDlPAeF5OdN_IGFS/view)
+- Chalmers, D.
+  [The Conscious Mind, Capítulo 1](https://drive.google.com/file/d/1USqaUs0lCnfDVeS0PT-Fd1hAK9EjehMH/view)
+
+- Chalmers, D.
+  [Could a Large Language Model be Conscious?](https://drive.google.com/file/d/14fshOGNmL4XK9ta0sDlPAeF5OdN_IGFS/view)
 
 **Presentación estudiantes**
 [Identifying Indicators of Consciousness in AI Systems](https://drive.google.com/file/d/14DULodBmdTLnWKgNfPTMpLMhQMA0xgG_/view)
@@ -196,11 +199,12 @@ Hugging Face.
 **Tema:** Interpretabilidad y ética
 
 **Lecturas obligatorias**
-Doshi Velez, F. y Kim, B.
-[Towards a Rigorous Science of Interpretable Machine Learning](https://drive.google.com/file/d/1Z_9gblUIQhqqUyfsERz36UDB3fpvM5Y-/view)
 
-Barocas, S., Hardt, M. y Narayanan, A.
-[Fairness in Machine Learning: Limitations and Opportunities, Capítulo 1](https://drive.google.com/file/d/1eYkgWyBUJshhJuJDzaEFJqNxPk88BoGQ/view)
+- Doshi Velez, F. y Kim, B.
+  [Towards a Rigorous Science of Interpretable Machine Learning](https://drive.google.com/file/d/1Z_9gblUIQhqqUyfsERz36UDB3fpvM5Y-/view)
+
+- Barocas, S., Hardt, M. y Narayanan, A.
+  [Fairness in Machine Learning: Limitations and Opportunities, Capítulo 1](https://drive.google.com/file/d/1eYkgWyBUJshhJuJDzaEFJqNxPk88BoGQ/view)
 
 **Presentación estudiantes**
 Bryson, J.
@@ -210,7 +214,7 @@ Bryson, J.
 
 ### Semanas 13 y 14
 
-**Tema:** Perspectivas contemporáneas en Inteligencia Artificial
+**Tema:** Perspectivas en Inteligencia Artificial
 
 **Presentaciones estudiantes**
 
