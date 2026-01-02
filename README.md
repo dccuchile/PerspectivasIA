@@ -17,7 +17,7 @@ El curso busca que el estudiantado:
 - Cada lectura obligatoria es evaluada mediante un control breve en clase, consistente en una prueba de selección múltiple de 6 preguntas.
 - Las clases consideran discusión guiada de las lecturas obligatorias.
 - Desde la semana 2 a la 12, cada semana incluye una presentación grupal de estudiantes de 20 minutos.
-- Las semanas 12 y 13 están dedicadas exclusivamente a presentaciones de estudiantes sobre perspectivas contemporáneas de la IA.
+- Las semanas 12 y 13 están dedicadas exclusivamente a presentaciones de estudiantes sobre perspectivas de la IA.
 - La semana 15 corresponde al cierre del curso, sin evaluaciones.
 
 ### Nota final
