@@ -47,7 +47,7 @@ McCarthy, J.
 
 ### Semana 2
 
-**Tema:** Agentes <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Agentes <a href="https://notebooklm.google.com/notebook/b3be1d58-b5a0-426c-bf86-ccc791c89fc2"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Russell, S. y Norvig, P.
@@ -61,7 +61,7 @@ Park, J. S. et al.
 
 ### Semana 3
 
-**Tema:** Aprendizaje profundo <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Aprendizaje profundo <a href="https://notebooklm.google.com/notebook/d51220ea-33fd-4876-b746-b22399391c5b"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Schmidhuber, J.
@@ -75,7 +75,7 @@ Serre, T.
 
 ### Semana 4
 
-**Tema:** Aprendizaje de representaciones <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Aprendizaje de representaciones <a href="https://notebooklm.google.com/notebook/c13e49df-a569-4406-9e6d-084e4bc63063"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Bengio, Y., Courville, A. y Vincent, P.
@@ -89,7 +89,7 @@ Chen, T. et al.
 
 ### Semana 5
 
-**Tema:** Aprendizaje por refuerzo <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Aprendizaje por refuerzo <a href="https://notebooklm.google.com/notebook/94bd12d6-24f3-4eb9-95c2-622210d4aec7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Hugging Face.
