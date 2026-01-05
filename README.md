@@ -33,7 +33,7 @@ El curso busca que el estudiantado:
 
 ### Semana 1
 
-**Tema:** ¿Qué es la Inteligencia Artificial?
+**Tema:** ¿Qué es la Inteligencia Artificial?     [NotebookLM](https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7)
 
 **Lectura obligatoria**
 Russell, S. y Norvig, P.
