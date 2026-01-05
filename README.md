@@ -47,7 +47,7 @@ McCarthy, J.
 
 ### Semana 2
 
-**Tema:** Agentes
+**Tema:** Agentes <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Russell, S. y Norvig, P.
@@ -61,7 +61,7 @@ Park, J. S. et al.
 
 ### Semana 3
 
-**Tema:** Aprendizaje profundo
+**Tema:** Aprendizaje profundo <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Schmidhuber, J.
@@ -75,7 +75,7 @@ Serre, T.
 
 ### Semana 4
 
-**Tema:** Aprendizaje de representaciones
+**Tema:** Aprendizaje de representaciones <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Bengio, Y., Courville, A. y Vincent, P.
@@ -89,7 +89,7 @@ Chen, T. et al.
 
 ### Semana 5
 
-**Tema:** Aprendizaje por refuerzo
+**Tema:** Aprendizaje por refuerzo <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Hugging Face.
@@ -103,7 +103,7 @@ Silver, D. et al.
 
 ### Semana 6
 
-**Tema:** Razonamiento y conocimiento
+**Tema:** Razonamiento y conocimiento <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lecturas obligatorias**
 
@@ -121,7 +121,7 @@ Davis, R., Shrobe, H. y Szolovits, P.
 
 ### Semana 7
 
-**Tema:** Percepción y visión
+**Tema:** Percepción y visión <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Torralba, A., Isola, P. y Freeman, W.
@@ -135,7 +135,7 @@ Marr, D.
 
 ### Semana 8
 
-**Tema:** Lenguaje
+**Tema:** Lenguaje <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lecturas obligatorias**
 
@@ -153,7 +153,7 @@ Brown, T. et al.
 
 ### Semana 9
 
-**Tema:** Cognición
+**Tema:** Cognición <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Bermúdez, J.
@@ -167,7 +167,7 @@ Friston, K.
 
 ### Semana 10
 
-**Tema:** Conciencia
+**Tema:** Conciencia <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lecturas obligatorias**
 
@@ -184,7 +184,7 @@ Friston, K.
 
 ### Semana 11
 
-**Tema:** Robótica
+**Tema:** Robótica <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Bermúdez, J.
@@ -198,7 +198,7 @@ Hugging Face.
 
 ### Semana 12
 
-**Tema:** Interpretabilidad y ética
+**Tema:** Interpretabilidad y ética <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lecturas obligatorias**
 
@@ -216,7 +216,7 @@ Bryson, J.
 
 ### Semanas 13 y 14
 
-**Tema:** Perspectivas en Inteligencia Artificial
+**Tema:** Perspectivas en Inteligencia Artificial <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Presentaciones estudiantes**
 
@@ -239,7 +239,7 @@ Bryson, J.
 
 ### Semana 15
 
-**Tema:** Cierre del curso
+**Tema:** Cierre del curso <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura**
 Russell, S. y Norvig, P.
