@@ -14,6 +14,7 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 - Desde la semana 2 a la 12, cada semana incluye una presentación grupal de estudiantes de 20 minutos.
 - Las semanas 13 y 14 están dedicadas exclusivamente a presentaciones de estudiantes sobre perspectivas de la IA.
 - La semana 15 corresponde al cierre del curso, sin evaluaciones.
+- El curso contempla un examen final.
 
 ### Nota final
 
