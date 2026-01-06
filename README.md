@@ -205,7 +205,7 @@ Capuano, F. et al.
 
 **Presentación estudiantes**
 Bryson, J.
-[The Ethics of Artificial Intelligence, Capítulo 1](https://drive.google.com/file/d/1LAlKtt6eB4AQgI-fo8ubkY_eGilLUWI4/view)
+[The Oxford Handbook of Ethics of AI, Capítulo 1: The Artificial Intelligence of the Ethics of Artificial Intelligence - An Introductory Overview for Law and Regulation](https://drive.google.com/file/d/1LAlKtt6eB4AQgI-fo8ubkY_eGilLUWI4/view)
 
 ------
 
