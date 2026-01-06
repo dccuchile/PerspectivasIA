@@ -4,14 +4,7 @@ Profesores: [Felipe Bravo Márquez](https://felipebravom.com/) y [Claudio Gutier
 
 ## Descripción general
 
-Este curso tiene como propósito desarrollar en las y los estudiantes la capacidad de analizar críticamente la arquitectura conceptual y las tradiciones que sustentan la Inteligencia Artificial contemporánea. Se estudian sus principales paradigmas, fundamentos epistemológicos y metodológicos, así como sus implicancias científicas, filosóficas, éticas y sociales.
-
-El curso busca que el estudiantado:
-
-- Comprenda los distintos enfoques históricos y contemporáneos de la IA.
-- Evalúe críticamente el uso de métodos formales y computacionales para modelar fenómenos cognitivos y sistémicos.
-- Analice tendencias actuales del campo, reconociendo sus límites y consecuencias sociales.
-- Articule perspectivas computacionales, científicas y filosóficas en una comprensión integrada de la disciplina.
+El curso tiene como propósito desarrollar en los y las estudiantes la capacidad de analizar críticamente la arquitectura conceptual y las tradiciones que sustentan la Inteligencia Artificial contemporánea, comprendiendo sus distintos paradigmas y fundamentos epistemológicos. Asimismo, busca que evalúen la aplicación de métodos formales de IA en la modelación de problemas cognitivos y sistémicos, y que sean capaces de examinar con rigor las tendencias actuales del campo, reconociendo sus límites, implicancias éticas y efectos sociales. En conjunto, el curso promueve una comprensión integrada de la IA que articula las perspectivas computacionales, científicas y filosóficas de la disciplina.
 
 ## Metodología y evaluación
 
@@ -19,13 +12,14 @@ El curso busca que el estudiantado:
 - Cada lectura obligatoria es evaluada mediante un control breve en clase, consistente en una prueba de selección múltiple de 6 preguntas.
 - Las clases consideran discusión guiada de las lecturas obligatorias.
 - Desde la semana 2 a la 12, cada semana incluye una presentación grupal de estudiantes de 20 minutos.
-- Las semanas 12 y 13 están dedicadas exclusivamente a presentaciones de estudiantes sobre perspectivas de la IA.
+- Las semanas 13 y 14 están dedicadas exclusivamente a presentaciones de estudiantes sobre perspectivas de la IA.
 - La semana 15 corresponde al cierre del curso, sin evaluaciones.
 
 ### Nota final
 
-- Controles de lectura: 60 por ciento
-- Presentaciones orales: 40 por ciento
+- Controles de lectura: 50%
+- Presentaciones orales: 30%
+- Examen: 20%
 
 ------
 
@@ -188,10 +182,10 @@ Friston, K.
 
 **Lectura obligatoria**
 Bermúdez, J.
-[Introduction to Cognitive Science, Capítulo 18: Robotics](https://drive.google.com/file/d/1FWcsPcqKj4R7DepA3iban4b8i0y8lg9v/view)
+[Introduction to Cognitive Science, Capítulo 14 - Robotics: From GOFAI to Situated Cognition and Behavior-Based Robotics](https://drive.google.com/file/d/1FWcsPcqKj4R7DepA3iban4b8i0y8lg9v/view)
 
 **Presentación estudiantes**
-Hugging Face.
+Capuano, F. et al.
 [Robot Learning: A Tutorial](https://drive.google.com/file/d/1f-SqY_0GHOUmGTGgY8xJVuw_nlwf2ejM/view)
 
 ------
