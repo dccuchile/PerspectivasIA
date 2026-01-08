@@ -8,6 +8,7 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 
 ## Metodología y evaluación
 
+- Horario: Jueves de 12pm a 14pm.
 - Desde la semana 1 a la 14 existe una lectura obligatoria semanal.
 - Cada lectura obligatoria es evaluada mediante un control breve en clase, consistente en una prueba de selección múltiple de 6 preguntas.
 - Las clases consideran discusión guiada de las lecturas obligatorias.
