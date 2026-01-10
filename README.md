@@ -228,6 +228,8 @@ Bryson, J.
   [The Consciousness Prior](https://drive.google.com/file/d/1JRHQy-Fv7Mh9sTMVcMFiPHDvaG77PTV8/view)
 - LeCun, Y.
   [A Path Towards Autonomous Machine Intelligence](https://drive.google.com/file/d/1q7o76dr9CQYs57Se7tjnI8R_04sKiwXo/view)
+- Besold, T. R. et al. 
+  [Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://drive.google.com/file/d/1wvh1rHhWPlEbAdYgVTJLhlt6u0mpyIf3/view?usp=sharing)
 - Hooker, S.
   [The Hardware Lottery](https://drive.google.com/file/d/1imwhBCObJEU9UOja9NsUnqtaKhExxEjC/view)
 
