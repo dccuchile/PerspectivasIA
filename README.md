@@ -194,7 +194,7 @@ Capuano, F. et al.
 
 ### Semana 12
 
-**Tema:** Interpretabilidad y ética <a href="https://notebooklm.google.com/notebook/c8700c83-c229-4ab7-a01a-e62ba90dd97d"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Interpretabilidad, equidad y ética <a href="https://notebooklm.google.com/notebook/c8700c83-c229-4ab7-a01a-e62ba90dd97d"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
 
 **Lecturas obligatorias**
 
