@@ -239,7 +239,7 @@ Bryson, J.
 [The Oxford Handbook of Ethics of AI, Capítulo 1: The Artificial Intelligence of the Ethics of Artificial Intelligence - An Introductory Overview for Law and Regulation](https://drive.google.com/file/d/1LAlKtt6eB4AQgI-fo8ubkY_eGilLUWI4/view)
 
 **Lecturas complementaria**
-- Bengio, Y., et al. [International AI Safety Report](https://drive.google.com/file/d/18nxIs9tZ_4V3_YBjukpR8mJaAJ-e7Fhk/view?usp=sharing)
+- Bengio, Y., et al. [International AI Safety Report - The International Scientific Report on the Safety of Advanced AI](https://drive.google.com/file/d/18nxIs9tZ_4V3_YBjukpR8mJaAJ-e7Fhk/view?usp=sharing)
 - Bengio, Y., et al. [International ai safety report - First Key Update: Capabilities and Risk Implications](https://drive.google.com/file/d/17hpxMEr8U8047n3iu38aU_1yvRRF8gbR/view?usp=sharing)
 - Bengio, Y., et al. [International ai safety report - Second Key Update: Technical Safeguards and Risk Management](https://drive.google.com/file/d/17hpxMEr8U8047n3iu38aU_1yvRRF8gbR/view?usp=sharing)
 
