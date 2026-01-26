@@ -180,7 +180,9 @@ Friston, K.
 
 ### Semana 10
 
-**Tema:** Conciencia <a href="https://notebooklm.google.com/notebook/bdd8bdf1-3076-4546-a72b-d06de6e9cd78"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Conciencia <a href="https://notebooklm.google.com/notebook/bdd8bdf1-3076-4546-a72b-d06de6e9cd78"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1jWYAyS6Oupr8qeKsMGXV7r_jrRaALxi4/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+
+
 
 **Lecturas obligatorias**
 
