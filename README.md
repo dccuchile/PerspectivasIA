@@ -126,7 +126,7 @@ Davis, R., Shrobe, H. y Szolovits, P.
 
 ### Semana 7
 
-**Tema:** Percepción y visión <a href="https://notebooklm.google.com/notebook/01bd72f9-2eaf-469c-a831-afa85f9f848b"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1squFQ7j01ghplYxXLCRv0aNIFLvgtYds/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Percepción y visión <a href="https://notebooklm.google.com/notebook/01bd72f9-2eaf-469c-a831-afa85f9f848b"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1squFQ7j01ghplYxXLCRv0aNIFLvgtYds/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
 
 
 
@@ -143,7 +143,10 @@ Marr, D.
 
 ### Semana 8
 
-**Tema:** Lenguaje <a href="https://notebooklm.google.com/notebook/952fc3d1-54d6-4ade-863c-772d2f23665e"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Lenguaje <a href="https://notebooklm.google.com/notebook/952fc3d1-54d6-4ade-863c-772d2f23665e"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1Nl8LlDwm7-bw3DEEczYBATvgAoH8298Z/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+
+
+
 
 **Lecturas obligatorias**
 
