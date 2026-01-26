@@ -276,5 +276,9 @@ Bryson, J.
 Russell, S. y Norvig, P.
 [Artificial Intelligence: A Modern Approach, Capítulo 28: The Future of AI](https://drive.google.com/file/d/1fpDCCQ5AtorXAQWLNtgvHO_Ubvd8ciVV/view)
 
+**Lectura complementaria**
+-  Sutton, R. [The Bitter Lesson](https://drive.google.com/file/d/1BKc3YV0KZ9GcYUGmvAhgs3o0bV9uhuVD/view?usp=sharing)
+-  Hooker, S. [On the slow death of scaling](https://drive.google.com/file/d/1M5XNjog6ZxbzEsSUVMZAijpidar1fyjI/view?usp=sharing)
+
 ------
 
