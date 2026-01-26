@@ -199,7 +199,10 @@ Friston, K.
 
 ### Semana 11
 
-**Tema:** Robótica <a href="https://notebooklm.google.com/notebook/b223e534-ac98-4218-b4b6-b1c89efb205b"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Robótica <a href="https://notebooklm.google.com/notebook/b223e534-ac98-4218-b4b6-b1c89efb205b"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/19Gqe_aUC4vZHltK5E8oBUG3KIP4d9QSd/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+
+
+
 
 **Lectura obligatoria**
 Bermúdez, J.
