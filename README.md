@@ -1,5 +1,7 @@
 # CC5218 Perspectivas y paradigmas en Inteligencia Artificial
 
+<img src="assets/logo.png" alt="Logo" width="750" style="vertical-align: middle;" /></a>
+
 Profesores: [Felipe Bravo Márquez](https://felipebravom.com/) y [Claudio Gutierrez](https://users.dcc.uchile.cl/~cgutierr/)
 
 ## Descripción general
