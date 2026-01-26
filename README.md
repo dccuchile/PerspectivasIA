@@ -267,7 +267,10 @@ Bryson, J.
 
 ### Semana 15
 
-**Tema:** Cierre del curso <a href="https://notebooklm.google.com/notebook/9e5a033f-a1a2-442a-bff1-bcce247f3564"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Cierre del curso - El Futuro de la IA <a href="https://notebooklm.google.com/notebook/9e5a033f-a1a2-442a-bff1-bcce247f3564"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1SwwQd_52WB9Cg3vKDcyrsB6eLIOcwxTY/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+
+
+
 
 **Lectura**
 Russell, S. y Norvig, P.
