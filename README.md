@@ -1,6 +1,6 @@
 # CC5218 Perspectivas y paradigmas en Inteligencia Artificial
 
-<img src="assets/logo.png" alt="Logo" width="750" style="vertical-align: middle;" /></a>
+<img src="assets/logo.png" alt="Logo" width="750" style="vertical-align: middle;" />
 
 Profesores: [Felipe Bravo Márquez](https://felipebravom.com/) y [Claudio Gutierrez](https://users.dcc.uchile.cl/~cgutierr/)
 
@@ -92,7 +92,6 @@ Chen, T. et al.
 ### Semana 5
 
 **Tema:** Aprendizaje por refuerzo <a href="https://notebooklm.google.com/notebook/94bd12d6-24f3-4eb9-95c2-622210d4aec7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1ZA_fhJQ90mMfDLXLUNbjSivap1BOWaWt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
-
 
 
 
@@ -243,7 +242,6 @@ Bryson, J.
 - Bengio, Y., et al. [International ai safety report - First Key Update: Capabilities and Risk Implications](https://drive.google.com/file/d/17hpxMEr8U8047n3iu38aU_1yvRRF8gbR/view?usp=sharing)
 - Bengio, Y., et al. [International ai safety report - Second Key Update: Technical Safeguards and Risk Management](https://drive.google.com/file/d/17hpxMEr8U8047n3iu38aU_1yvRRF8gbR/view?usp=sharing)
 
-SuperIntelligence V2N6 LLM III: Limitations
 
 ------
 
