@@ -73,7 +73,7 @@ Serre, T.
 
 ### Semana 4
 
-**Tema:** Aprendizaje de representaciones <a href="https://notebooklm.google.com/notebook/c13e49df-a569-4406-9e6d-084e4bc63063"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/11CAvuyW1YE4uk2QYRKV4kLsBy4w2kFbt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Aprendizaje de representaciones <a href="https://notebooklm.google.com/notebook/c13e49df-a569-4406-9e6d-084e4bc63063"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/11CAvuyW1YE4uk2QYRKV4kLsBy4w2kFbt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
 
 
 
