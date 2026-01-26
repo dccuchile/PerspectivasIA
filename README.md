@@ -59,7 +59,7 @@ Park, J. S. et al.
 
 ### Semana 3
 
-**Tema:** Aprendizaje profundo <a href="https://notebooklm.google.com/notebook/d51220ea-33fd-4876-b746-b22399391c5b"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Aprendizaje profundo <a href="https://notebooklm.google.com/notebook/d51220ea-33fd-4876-b746-b22399391c5b"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1jSggl-dRO1cByeG6NthWb1JCRzhISSvo/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
 
 **Lectura obligatoria**
 Schmidhuber, J.
