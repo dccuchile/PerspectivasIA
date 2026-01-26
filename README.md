@@ -206,14 +206,14 @@ Bermúdez, J.
 [Introduction to Cognitive Science, Capítulo 14 - Robotics: From GOFAI to Situated Cognition and Behavior-Based Robotics](https://drive.google.com/file/d/1FWcsPcqKj4R7DepA3iban4b8i0y8lg9v/view)
 
 
-
 **Presentación estudiantes**
+International Federation of Robotics.
+[Artificial Intelligence in Robotics](https://drive.google.com/file/d/1W9Oi3NH2VGZJm-9bvq42B4GNhiHSz9fj/view?usp=sharing)
+
+**Lectura complementaria**
 Capuano, F. et al.
 [Robot Learning: A Tutorial](https://drive.google.com/file/d/1f-SqY_0GHOUmGTGgY8xJVuw_nlwf2ejM/view)
 
-**Lectura complementaria**
-International Federation of Robotics.
-[Artificial Intelligence in Robotics](https://drive.google.com/file/d/1W9Oi3NH2VGZJm-9bvq42B4GNhiHSz9fj/view?usp=sharing)
 
 ------
 
