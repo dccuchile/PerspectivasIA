@@ -91,7 +91,10 @@ Chen, T. et al.
 
 ### Semana 5
 
-**Tema:** Aprendizaje por refuerzo <a href="https://notebooklm.google.com/notebook/94bd12d6-24f3-4eb9-95c2-622210d4aec7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Aprendizaje por refuerzo <a href="https://notebooklm.google.com/notebook/94bd12d6-24f3-4eb9-95c2-622210d4aec7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1ZA_fhJQ90mMfDLXLUNbjSivap1BOWaWt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+
+
+
 
 **Lectura obligatoria**
 Hugging Face.
