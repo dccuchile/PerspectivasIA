@@ -1,10 +1,12 @@
-# Perspectivas y paradigmas en Inteligencia Artificial
+# CC5218 Perspectivas y paradigmas en Inteligencia Artificial
 
 Profesores: [Felipe Bravo Márquez](https://felipebravom.com/) y [Claudio Gutierrez](https://users.dcc.uchile.cl/~cgutierr/)
 
 ## Descripción general
 
 El curso tiene como propósito desarrollar en los y las estudiantes la capacidad de analizar críticamente la arquitectura conceptual y las tradiciones que sustentan la Inteligencia Artificial contemporánea, comprendiendo sus distintos paradigmas y fundamentos epistemológicos. Asimismo, busca que evalúen la aplicación de métodos formales de IA en la modelación de problemas cognitivos y sistémicos, y que sean capaces de examinar con rigor las tendencias actuales del campo, reconociendo sus límites, implicancias éticas y efectos sociales. En conjunto, el curso promueve una comprensión integrada de la IA que articula las perspectivas computacionales, científicas y filosóficas de la disciplina.
+
+[Programa Oficial del Curso](https://drive.google.com/file/d/1zukjX77dHfpcZ-58Wuosn9lYD1vxJfjR/view?usp=sharing)
 
 ## Metodología y evaluación
 
