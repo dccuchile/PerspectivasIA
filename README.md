@@ -164,7 +164,9 @@ Brown, T. et al.
 
 ### Semana 9
 
-**Tema:** Cognición y Mente <a href="https://notebooklm.google.com/notebook/71102a05-9276-4d86-a572-add072f6612e"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Cognición y Mente <a href="https://notebooklm.google.com/notebook/71102a05-9276-4d86-a572-add072f6612e"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1S_yU4I6W3FY5-Zg6YfGuCPeML-MQRYvQ/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+
+
 
 **Lectura obligatoria**
 Bermúdez, J.
