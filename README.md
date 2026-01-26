@@ -108,7 +108,7 @@ Silver, D. et al.
 
 ### Semana 6
 
-**Tema:** Razonamiento y conocimiento <a href="https://notebooklm.google.com/notebook/77779640-1cf0-4a8b-b208-61279d37c2fc"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Razonamiento y conocimiento <a href="https://notebooklm.google.com/notebook/77779640-1cf0-4a8b-b208-61279d37c2fc"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/19nPlVqwxt6vE-y-GO7bmbX1etmozhtJU/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
 
 **Lecturas obligatorias**
 
