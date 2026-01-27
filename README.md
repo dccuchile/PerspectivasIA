@@ -38,6 +38,7 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 **Lectura obligatoria**
 Russell, S. y Norvig, P.
 [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulo 1](https://drive.google.com/file/d/1_gl70VIbhgb9TDwuBbZw_JsuqMugUaVg/view)
+<img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1KAdn1icH1g9al0hdkFWsy4jiP7cqG3Nt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/audio_ES.png" alt="audio_ES" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1KAdn1icH1g9al0hdkFWsy4jiP7cqG3Nt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/video_ES.png" alt="video_ES" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1KAdn1icH1g9al0hdkFWsy4jiP7cqG3Nt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/audio_EN.png" alt="audio_EN" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1KAdn1icH1g9al0hdkFWsy4jiP7cqG3Nt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/video_EN.png" alt="video_EN" width="18" style="vertical-align: middle;" /></a>
 
 **Lectura complementaria**
 McCarthy, J.
