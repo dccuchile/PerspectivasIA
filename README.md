@@ -68,6 +68,7 @@ Park, J. S. et al.
 **Lectura obligatoria**
 Schmidhuber, J.
 [Deep Learning in Neural Networks: An Overview](https://drive.google.com/file/d/1hnLKKr8089Bl1xX5ApEiEO-d4UrjMmPP/view)
+<a href="https://drive.google.com/file/d/1bMEPJ9wdNp5tM6SEXLQvitc6K7TlIdeH/view?usp=sharing"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1E0IMoC1ZekCz8X8DjyRu8bvWdWqIVCBt/view?usp=sharing"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18agMrnVw4iF9M1w3P_STGRyXW5BdZene/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pf_UbGFNVkBILbVFm5Ao1niVGa4eytf3/view?usp=sharing"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Serre, T.
