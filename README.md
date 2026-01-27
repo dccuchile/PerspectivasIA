@@ -33,7 +33,7 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 
 ### Semana 1
 
-**Tema:** ¿Qué es la Inteligencia Artificial?  <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1KAdn1icH1g9al0hdkFWsy4jiP7cqG3Nt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a>
+**Tema:** ¿Qué es la Inteligencia Artificial?  <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1KAdn1icH1g9al0hdkFWsy4jiP7cqG3Nt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Russell, S. y Norvig, P.
@@ -48,7 +48,7 @@ McCarthy, J.
 
 ### Semana 2
 
-**Tema:** Agentes <a href="https://notebooklm.google.com/notebook/b3be1d58-b5a0-426c-bf86-ccc791c89fc2"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1dRm_6ZH2Ma0FfKxIdw6uhMWm571PJ37b/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Agentes <a href="https://notebooklm.google.com/notebook/b3be1d58-b5a0-426c-bf86-ccc791c89fc2"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1dRm_6ZH2Ma0FfKxIdw6uhMWm571PJ37b/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a>
 
 **Lectura obligatoria**
 Russell, S. y Norvig, P.
@@ -62,7 +62,7 @@ Park, J. S. et al.
 
 ### Semana 3
 
-**Tema:** Aprendizaje profundo <a href="https://notebooklm.google.com/notebook/d51220ea-33fd-4876-b746-b22399391c5b"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1jSggl-dRO1cByeG6NthWb1JCRzhISSvo/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Aprendizaje profundo <a href="https://notebooklm.google.com/notebook/d51220ea-33fd-4876-b746-b22399391c5b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1jSggl-dRO1cByeG6NthWb1JCRzhISSvo/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 **Lectura obligatoria**
 Schmidhuber, J.
@@ -76,7 +76,7 @@ Serre, T.
 
 ### Semana 4
 
-**Tema:** Aprendizaje de representaciones <a href="https://notebooklm.google.com/notebook/c13e49df-a569-4406-9e6d-084e4bc63063"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/11CAvuyW1YE4uk2QYRKV4kLsBy4w2kFbt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Aprendizaje de representaciones <a href="https://notebooklm.google.com/notebook/c13e49df-a569-4406-9e6d-084e4bc63063"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/11CAvuyW1YE4uk2QYRKV4kLsBy4w2kFbt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 
 
@@ -92,7 +92,7 @@ Chen, T. et al.
 
 ### Semana 5
 
-**Tema:** Aprendizaje por refuerzo <a href="https://notebooklm.google.com/notebook/94bd12d6-24f3-4eb9-95c2-622210d4aec7"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1ZA_fhJQ90mMfDLXLUNbjSivap1BOWaWt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Aprendizaje por refuerzo <a href="https://notebooklm.google.com/notebook/94bd12d6-24f3-4eb9-95c2-622210d4aec7"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1ZA_fhJQ90mMfDLXLUNbjSivap1BOWaWt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 
 
@@ -108,7 +108,7 @@ Silver, D. et al.
 
 ### Semana 6
 
-**Tema:** Razonamiento y conocimiento <a href="https://notebooklm.google.com/notebook/77779640-1cf0-4a8b-b208-61279d37c2fc"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/19nPlVqwxt6vE-y-GO7bmbX1etmozhtJU/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Razonamiento y conocimiento <a href="https://notebooklm.google.com/notebook/77779640-1cf0-4a8b-b208-61279d37c2fc"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/19nPlVqwxt6vE-y-GO7bmbX1etmozhtJU/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 **Lecturas obligatorias**
 
@@ -126,7 +126,7 @@ Davis, R., Shrobe, H. y Szolovits, P.
 
 ### Semana 7
 
-**Tema:** Percepción y visión <a href="https://notebooklm.google.com/notebook/01bd72f9-2eaf-469c-a831-afa85f9f848b"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1squFQ7j01ghplYxXLCRv0aNIFLvgtYds/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Percepción y visión <a href="https://notebooklm.google.com/notebook/01bd72f9-2eaf-469c-a831-afa85f9f848b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1squFQ7j01ghplYxXLCRv0aNIFLvgtYds/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 
 
@@ -143,7 +143,7 @@ Marr, D.
 
 ### Semana 8
 
-**Tema:** Lenguaje <a href="https://notebooklm.google.com/notebook/952fc3d1-54d6-4ade-863c-772d2f23665e"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1Nl8LlDwm7-bw3DEEczYBATvgAoH8298Z/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Lenguaje <a href="https://notebooklm.google.com/notebook/952fc3d1-54d6-4ade-863c-772d2f23665e"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1Nl8LlDwm7-bw3DEEczYBATvgAoH8298Z/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 
 
@@ -164,7 +164,7 @@ Brown, T. et al.
 
 ### Semana 9
 
-**Tema:** Cognición y Mente <a href="https://notebooklm.google.com/notebook/71102a05-9276-4d86-a572-add072f6612e"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1S_yU4I6W3FY5-Zg6YfGuCPeML-MQRYvQ/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Cognición y Mente <a href="https://notebooklm.google.com/notebook/71102a05-9276-4d86-a572-add072f6612e"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1S_yU4I6W3FY5-Zg6YfGuCPeML-MQRYvQ/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 
 
@@ -180,7 +180,7 @@ Friston, K.
 
 ### Semana 10
 
-**Tema:** Conciencia <a href="https://notebooklm.google.com/notebook/bdd8bdf1-3076-4546-a72b-d06de6e9cd78"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1jWYAyS6Oupr8qeKsMGXV7r_jrRaALxi4/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Conciencia <a href="https://notebooklm.google.com/notebook/bdd8bdf1-3076-4546-a72b-d06de6e9cd78"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1jWYAyS6Oupr8qeKsMGXV7r_jrRaALxi4/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 
 
@@ -199,7 +199,7 @@ Friston, K.
 
 ### Semana 11
 
-**Tema:** Robótica <a href="https://notebooklm.google.com/notebook/b223e534-ac98-4218-b4b6-b1c89efb205b"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/19Gqe_aUC4vZHltK5E8oBUG3KIP4d9QSd/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Robótica <a href="https://notebooklm.google.com/notebook/b223e534-ac98-4218-b4b6-b1c89efb205b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/19Gqe_aUC4vZHltK5E8oBUG3KIP4d9QSd/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 
 
@@ -222,8 +222,8 @@ Capuano, F. et al.
 
 ### Semana 12
 
-**Tema:** Interpretabilidad, equidad y ética <a href="https://notebooklm.google.com/notebook/c8700c83-c229-4ab7-a01a-e62ba90dd97d"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
-<a href="https://docs.google.com/presentation/d/1900VjyEmGrZexcd24oyDg84x8TU0v6Ki/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Interpretabilidad, equidad y ética <a href="https://notebooklm.google.com/notebook/c8700c83-c229-4ab7-a01a-e62ba90dd97d"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>
+<a href="https://docs.google.com/presentation/d/1900VjyEmGrZexcd24oyDg84x8TU0v6Ki/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 
 **Lecturas obligatorias**
@@ -248,7 +248,7 @@ Bryson, J.
 
 ### Semanas 13 y 14
 
-**Tema:** Perspectivas en Inteligencia Artificial <a href="https://notebooklm.google.com/notebook/86bd0ab7-5c85-4707-9060-1d1410cbd2c0"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a>
+**Tema:** Perspectivas en Inteligencia Artificial <a href="https://notebooklm.google.com/notebook/86bd0ab7-5c85-4707-9060-1d1410cbd2c0"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>
 
 **Presentaciones estudiantes**
 
@@ -273,7 +273,7 @@ Bryson, J.
 
 ### Semana 15
 
-**Tema:** Cierre del curso - El Futuro de la IA <a href="https://notebooklm.google.com/notebook/9e5a033f-a1a2-442a-bff1-bcce247f3564"><img src="assets/notebooklm.png" alt="NotebookLM" width="18" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1SwwQd_52WB9Cg3vKDcyrsB6eLIOcwxTY/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="18" style="vertical-align: middle;" /></a> 
+**Tema:** Cierre del curso - El Futuro de la IA <a href="https://notebooklm.google.com/notebook/9e5a033f-a1a2-442a-bff1-bcce247f3564"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1SwwQd_52WB9Cg3vKDcyrsB6eLIOcwxTY/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 
 
