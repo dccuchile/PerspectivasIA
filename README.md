@@ -53,6 +53,7 @@ McCarthy, J.
 **Lectura obligatoria**
 Russell, S. y Norvig, P.
 [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulo 2](https://drive.google.com/file/d/1gmzsLa0eDr8SYenJTB6TUKhDT7zJvo1G/view)
+<a href="https://drive.google.com/file/d/1nsNJWgShAcdfNamwjUKSWr2lxX4K59fV/view?usp=sharing"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1zdoxjYnvmD_k7rhFN8FfcbYKe4DL6Pvs/view?usp=sharing"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1tpq4hrq_e8JTBKsocYczDDpGklVLxtvn/view?usp=sharing"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1w-w09DYZDnZD5WmyVTU55hoYoDP-JAdr/view?usp=sharing"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Park, J. S. et al.
