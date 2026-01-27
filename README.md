@@ -84,7 +84,9 @@ Serre, T.
 
 **Lectura obligatoria**
 Bengio, Y., Courville, A. y Vincent, P.
-[Representation Learning: A Review and New Perspectives](https://drive.google.com/file/d/1KZOtIAgQSbawyK95LqrHxyrRMYoCiIpL/view)
+[Representation Learning: A Review and New Perspectives](https://drive.google.com/file/d/1KZOtIAgQSbawyK95LqrHxyrRMYoCiIpL/view) 
+<br>
+<a href="https://drive.google.com/file/d/1ETrak96Q0t50ajqMPQoKF2mXu9zWCqgD/view?usp=sharing"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Uz_85UJMugCVednj7wjOPAYDLlTy9r_3/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1qKeNMhG7Mg_QeqZlRh1m8SS9BnGA2xQc/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Vy9qclPU3V992GvaJF5v5z6mY09tE6dC/view?usp=sharing"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Chen, T. et al.
