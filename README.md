@@ -125,6 +125,8 @@ Silver, D. et al.
 
 - Nilsson, N.
   [The Quest for Artificial Intelligence, Capítulo 26: Reasoning and Representation](https://drive.google.com/file/d/1a56vhtDabFqd16NaTPOm2gldSLqXhZ7W/view)
+    <br>
+<a href="https://drive.google.com/file/d/15dchLWrXxgtPyw9hD61Nr4Qxvkk3vyre/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18XqQ-l_ze3B3CN_7taeJDIcwgi1CFaBN/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pMs3N-LLsc5ulgSg6BlH8W0Gx4qvkFZz/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1ugjMSstWx_ooyDMGc9pUVH1ocoUJoStP/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Davis, R., Shrobe, H. y Szolovits, P.
