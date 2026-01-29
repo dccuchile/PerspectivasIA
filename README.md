@@ -40,9 +40,12 @@ Russell, S. y Norvig, P.
 [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulo 1](https://drive.google.com/file/d/1_gl70VIbhgb9TDwuBbZw_JsuqMugUaVg/view)
 <a href="https://drive.google.com/file/d/19-o6gZ0ef7Op-1MdBAEk0e03u0aYb2go/view?usp=sharing"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1d8oMDgXTMaKKWiHVx1mCyvEygtAUphcG/view?usp=sharing"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/10tSJaY6d3Iwd5aNcZmMeDo65jRXah4GS/view?usp=sharing"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1JIxgNiI24wNDqnWYTOxi4BiCCRcvDtK8/view?usp=sharing"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
-**Lectura complementaria**
-McCarthy, J.
-[What is Artificial Intelligence?](https://drive.google.com/file/d/1vhbC1VJkTsTnqDcZWs-Fcf39Tor70mvw/view)
+**Lecturas complementarias**
+
+* McCarthy, J.
+  [What is Artificial Intelligence?](https://drive.google.com/file/d/1vhbC1VJkTsTnqDcZWs-Fcf39Tor70mvw/view)
+* Rusell, S.
+  [Human Compatible Artificial Intelligence, Apéndice (introducción breve a la búsqueda, lógica, incertidumbre y aprendizaje)](https://drive.google.com/file/d/1vhbC1VJkTsTnqDcZWs-Fcf39Tor70mvw/view)
 
 ------
 
@@ -121,12 +124,12 @@ Silver, D. et al.
 - Brachman, R. y Levesque, H.
   [Knowledge Representation and Reasoning, Capítulo 1](https://drive.google.com/file/d/1aM_hIXAKlP9BJV9MKrU_5msGmO0WFYYI/view)
   <br>
-<a href="https://drive.google.com/file/d/1TZtqDBpzN2va2cxVEivNp18MA0LuVBlc/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pwzd0CSliK1h7DKXUQFp5FwsPOjBi82P/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1WWl8ajOIHGtB-WUNbPLZ1BAFdzZGtxmU/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1LPSeXGy705WU3hJTENyQFc9mexBbV0Ic/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+  <a href="https://drive.google.com/file/d/1TZtqDBpzN2va2cxVEivNp18MA0LuVBlc/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pwzd0CSliK1h7DKXUQFp5FwsPOjBi82P/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1WWl8ajOIHGtB-WUNbPLZ1BAFdzZGtxmU/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1LPSeXGy705WU3hJTENyQFc9mexBbV0Ic/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 - Nilsson, N.
   [The Quest for Artificial Intelligence, Capítulo 26: Reasoning and Representation](https://drive.google.com/file/d/1a56vhtDabFqd16NaTPOm2gldSLqXhZ7W/view)
     <br>
-<a href="https://drive.google.com/file/d/15dchLWrXxgtPyw9hD61Nr4Qxvkk3vyre/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18XqQ-l_ze3B3CN_7taeJDIcwgi1CFaBN/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pMs3N-LLsc5ulgSg6BlH8W0Gx4qvkFZz/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1ugjMSstWx_ooyDMGc9pUVH1ocoUJoStP/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+  <a href="https://drive.google.com/file/d/15dchLWrXxgtPyw9hD61Nr4Qxvkk3vyre/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18XqQ-l_ze3B3CN_7taeJDIcwgi1CFaBN/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pMs3N-LLsc5ulgSg6BlH8W0Gx4qvkFZz/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1ugjMSstWx_ooyDMGc9pUVH1ocoUJoStP/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Davis, R., Shrobe, H. y Szolovits, P.
@@ -137,7 +140,6 @@ Davis, R., Shrobe, H. y Szolovits, P.
 ### Semana 7
 
 **Tema:** Percepción y visión <a href="https://notebooklm.google.com/notebook/01bd72f9-2eaf-469c-a831-afa85f9f848b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1squFQ7j01ghplYxXLCRv0aNIFLvgtYds/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
-
 
 
 
@@ -250,7 +252,8 @@ Capuano, F. et al.
 Bryson, J.
 [The Oxford Handbook of Ethics of AI, Capítulo 1: The Artificial Intelligence of the Ethics of Artificial Intelligence - An Introductory Overview for Law and Regulation](https://drive.google.com/file/d/1LAlKtt6eB4AQgI-fo8ubkY_eGilLUWI4/view)
 
-**Lecturas complementaria**
+**Lecturas complementarias**
+
 - Bengio, Y., et al. [International AI Safety Report - The International Scientific Report on the Safety of Advanced AI](https://drive.google.com/file/d/18nxIs9tZ_4V3_YBjukpR8mJaAJ-e7Fhk/view?usp=sharing)
 - Bengio, Y., et al. [International ai safety report - First Key Update: Capabilities and Risk Implications](https://drive.google.com/file/d/17hpxMEr8U8047n3iu38aU_1yvRRF8gbR/view?usp=sharing)
 - Bengio, Y., et al. [International ai safety report - Second Key Update: Technical Safeguards and Risk Management](https://drive.google.com/file/d/17hpxMEr8U8047n3iu38aU_1yvRRF8gbR/view?usp=sharing)
@@ -294,7 +297,8 @@ Bryson, J.
 Russell, S. y Norvig, P.
 [Artificial Intelligence: A Modern Approach, Capítulo 28: The Future of AI](https://drive.google.com/file/d/1fpDCCQ5AtorXAQWLNtgvHO_Ubvd8ciVV/view)
 
-**Lecturas complementaria**
+**Lecturas complementarias**
+
 -  Sutton, R. [The Bitter Lesson](https://drive.google.com/file/d/1BKc3YV0KZ9GcYUGmvAhgs3o0bV9uhuVD/view?usp=sharing)
 -  Hooker, S. [On the slow death of scaling](https://drive.google.com/file/d/1M5XNjog6ZxbzEsSUVMZAijpidar1fyjI/view?usp=sharing)
 
