@@ -103,6 +103,8 @@ Chen, T. et al.
 **Lectura obligatoria**
 Hugging Face.
 [Deep Reinforcement Learning Course, Capítulos 1 y 2](https://drive.google.com/file/d/1tXDMBQ0XqEMsHx7Anq7HDidlEccVZ-I_/view)
+<br>
+<a href="https://drive.google.com/file/d/1GLTSCEs1y6lURdm0O-XTb3ozx_ZuvuYG/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Te_SzOL7u8H-5AWfXjlDctqy9MYXNcks/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/15WrYX9Ey72lAmUG9Qmrouoi-N10pwsle/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1VAcJFgRkKpxftXXjzrOM6z9qkNITq7Ff/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Silver, D. et al.
