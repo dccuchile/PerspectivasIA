@@ -45,7 +45,7 @@ Russell, S. y Norvig, P.
 * McCarthy, J.
   [What is Artificial Intelligence?](https://drive.google.com/file/d/1vhbC1VJkTsTnqDcZWs-Fcf39Tor70mvw/view)
 * Rusell, S.
-  [Human Compatible Artificial Intelligence, Apéndice (introducción breve a la búsqueda, lógica, incertidumbre y aprendizaje)](https://drive.google.com/file/d/1vhbC1VJkTsTnqDcZWs-Fcf39Tor70mvw/view)
+  [Human Compatible Artificial Intelligence, Apéndice (introducción breve a la búsqueda, lógica, incertidumbre y aprendizaje)](https://drive.google.com/file/d/1s8qtpwXI-ECtgmJTucTAOV7QDV833a9M/view?usp=drive_link)
 
 ------
 
