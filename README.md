@@ -120,6 +120,8 @@ Silver, D. et al.
 
 - Brachman, R. y Levesque, H.
   [Knowledge Representation and Reasoning, Capítulo 1](https://drive.google.com/file/d/1aM_hIXAKlP9BJV9MKrU_5msGmO0WFYYI/view)
+  <br>
+<a href="https://drive.google.com/file/d/1GLTSCEs1y6lURdm0O-XTb3ozx_ZuvuYG/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pwzd0CSliK1h7DKXUQFp5FwsPOjBi82P/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1WWl8ajOIHGtB-WUNbPLZ1BAFdzZGtxmU/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1LPSeXGy705WU3hJTENyQFc9mexBbV0Ic/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 - Nilsson, N.
   [The Quest for Artificial Intelligence, Capítulo 26: Reasoning and Representation](https://drive.google.com/file/d/1a56vhtDabFqd16NaTPOm2gldSLqXhZ7W/view)
