@@ -166,6 +166,8 @@ Marr, D.
 
 - Smith, N. A.
   [Contextual Word Representations: A Contextual Introduction](https://drive.google.com/file/d/1x8c1agNE9fv0GxRdpafDsUTynpRNiUw3/view?usp=sharing)
+   <br>
+<a href="https://drive.google.com/file/d/1P8KlRQzxLqU46JFaBrYwD21bP4CZCsSS/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1vwf2uGeEFFBBA-PwFXjYNytwiWwj1Z5-/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_TBUINkEBZ-GqOwFH0zupBLg1m3DM3uc/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11uzS3O7fEiUhhg4arvtayxFfMJHwVr7_/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 - Bender, E. y Koller, A.
   [Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://drive.google.com/file/d/1A88jm5C7vsIf8k0uu3_eponZRFel58t3/view)
