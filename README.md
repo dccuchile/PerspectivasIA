@@ -144,6 +144,8 @@ Davis, R., Shrobe, H. y Szolovits, P.
 **Lectura obligatoria**
 Torralba, A., Isola, P. y Freeman, W.
 [Foundations of Computer Vision, Capítulo 1](https://drive.google.com/file/d/1o54NbuM7rVjijUlzodhgEpW1kUgcv0XU/view)
+    <br>
+<a href="https://drive.google.com/file/d/1P8KlRQzxLqU46JFaBrYwD21bP4CZCsSS/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1vwf2uGeEFFBBA-PwFXjYNytwiWwj1Z5-/view?usp=drive_link><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_TBUINkEBZ-GqOwFH0zupBLg1m3DM3uc/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11uzS3O7fEiUhhg4arvtayxFfMJHwVr7_/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Marr, D.
