@@ -170,7 +170,8 @@ Marr, D.
   <a href="https://drive.google.com/file/d/1A8JPV1aEy7lsiua7yyd7byTwyUw64Ne2/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/177C6fNGjstm4Q4kvg96LLGk5bp6bvctS/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1gucFFyE4uG7PlSVQvB5txEzG-GDnDuBy/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/16Beld5pls4zkgOkmhHjlYJCCYM7PhReZ/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 - Bender, E. y Koller, A.
-  [Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://drive.google.com/file/d/1A88jm5C7vsIf8k0uu3_eponZRFel58t3/view)
+  [Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://drive.google.com/file/d/1A88jm5C7vsIf8k0uu3_eponZRFel58t3/view)     <br>
+  <a href="https://drive.google.com/file/d/1-4Yw_so0WDcRApGGhVUNRKJSHZlb8Vea/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1qXr3a3rZgfZzbZr3yYT5bIsBknnMARxg/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/12eZ_BcQgeq-QXQyvu93I-uA9aaM9esgr/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1VY2fZzUAriIbbcUY6Mpoe-AH0Z7zKmSH/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Brown, T. et al.
