@@ -208,9 +208,13 @@ Friston, K.
 
 - Chalmers, D.
   [The Conscious Mind, Capítulo 1](https://drive.google.com/file/d/1USqaUs0lCnfDVeS0PT-Fd1hAK9EjehMH/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1-aaxURIuwxXppT52DZbOyeaTuHNoG824/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18q8yAB4SLqhj0L5wH_csfq4w4GX1Dsx7/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_oVP3XhrD8ddDp_-5Ccz-beR4L-A5Jeh/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_sGFhYrq940kpo4Wy0BiCl5VFDcU9tE2/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 - Chalmers, D.
   [Could a Large Language Model be Conscious?](https://drive.google.com/file/d/14fshOGNmL4XK9ta0sDlPAeF5OdN_IGFS/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1QeiTxNE7JLV_d_DUsiMeKPns4L3WYWBq/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1j0vY4b29TmTqiEhQRdXLg7Cc2K4CZCCa/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11KYcmAh7vmcdiiI69NMmeZOYxQIiGI6E/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Qkgt8knOuUcIGm1-vp1I2XGVnYTtP8we/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 [Identifying Indicators of Consciousness in AI Systems](https://drive.google.com/file/d/14DULodBmdTLnWKgNfPTMpLMhQMA0xgG_/view)
