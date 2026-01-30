@@ -190,7 +190,7 @@ Bermúdez, J.
 [Introduction to Cognitive Science, Capítulos introductorio y 1](https://drive.google.com/file/d/1U9QqdsV9PjVYgsE6Uc5j-bUkFj_xpDkM/view)
 <br>
   <a href="https://drive.google.com/file/d/1QeiTxNE7JLV_d_DUsiMeKPns4L3WYWBq/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1j0vY4b29TmTqiEhQRdXLg7Cc2K4CZCCa/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11KYcmAh7vmcdiiI69NMmeZOYxQIiGI6E/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Qkgt8knOuUcIGm1-vp1I2XGVnYTtP8we/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
-  
+
 
 **Presentación estudiantes**
 Friston, K.
@@ -224,8 +224,7 @@ Friston, K.
 ### Semana 11
 
 **Tema:** Robótica <a href="https://notebooklm.google.com/notebook/b223e534-ac98-4218-b4b6-b1c89efb205b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/19Gqe_aUC4vZHltK5E8oBUG3KIP4d9QSd/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
-<br>
-  <a href="https://drive.google.com/file/d/1bS7s_OFjr5QOrth6JLuhWyny5Vtc5UH4/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1E2Yaf2ksmqMV1F0glvtoT4NcxHgOwuow/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1I9yw8dVVtYPZrOUXITyK795JbG5r9ViK/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1SzPeQV5ONrpgkfUw23DloLsMtoi8szuf/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+
 
 
 
@@ -233,6 +232,8 @@ Friston, K.
 **Lectura obligatoria**
 Bermúdez, J.
 [Introduction to Cognitive Science, Capítulo 14 - Robotics: From GOFAI to Situated Cognition and Behavior-Based Robotics](https://drive.google.com/file/d/1FWcsPcqKj4R7DepA3iban4b8i0y8lg9v/view)
+<br>
+  <a href="https://drive.google.com/file/d/1bS7s_OFjr5QOrth6JLuhWyny5Vtc5UH4/view?usp=drive_link><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1NRfMjMww449IBP1jJBKK0kLmTM2WFFR6/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1I9yw8dVVtYPZrOUXITyK795JbG5r9ViK/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1SzPeQV5ONrpgkfUw23DloLsMtoi8szuf/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 
 **Presentación estudiantes**
