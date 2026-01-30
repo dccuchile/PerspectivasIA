@@ -188,6 +188,9 @@ Brown, T. et al.
 **Lectura obligatoria**
 Bermúdez, J.
 [Introduction to Cognitive Science, Capítulos introductorio y 1](https://drive.google.com/file/d/1U9QqdsV9PjVYgsE6Uc5j-bUkFj_xpDkM/view)
+<br>
+  <a href="https://drive.google.com/file/d/1QeiTxNE7JLV_d_DUsiMeKPns4L3WYWBq/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1j0vY4b29TmTqiEhQRdXLg7Cc2K4CZCCa/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11KYcmAh7vmcdiiI69NMmeZOYxQIiGI6E/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Qkgt8knOuUcIGm1-vp1I2XGVnYTtP8we/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+  
 
 **Presentación estudiantes**
 Friston, K.
