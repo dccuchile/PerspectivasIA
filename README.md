@@ -224,6 +224,8 @@ Friston, K.
 ### Semana 11
 
 **Tema:** Robótica <a href="https://notebooklm.google.com/notebook/b223e534-ac98-4218-b4b6-b1c89efb205b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/19Gqe_aUC4vZHltK5E8oBUG3KIP4d9QSd/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
+<br>
+  <a href="https://drive.google.com/file/d/1bS7s_OFjr5QOrth6JLuhWyny5Vtc5UH4/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1E2Yaf2ksmqMV1F0glvtoT4NcxHgOwuow/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1I9yw8dVVtYPZrOUXITyK795JbG5r9ViK/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1SzPeQV5ONrpgkfUw23DloLsMtoi8szuf/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 
 
