@@ -257,9 +257,13 @@ Capuano, F. et al.
 
 - Doshi Velez, F. y Kim, B.
   [Towards a Rigorous Science of Interpretable Machine Learning](https://drive.google.com/file/d/1Z_9gblUIQhqqUyfsERz36UDB3fpvM5Y-/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1AMLTXaj5umYwDApxPZvg98TzDt1dKu6E/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Sqqk6mRjcKj3uN9FXvpz4tcsAfYEqYem/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1elIXkua1XbNX7nrTSUwvZ0DgksgBMY_t/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1h66_QwM-ydtsOzwRg7t0VyPheLhXm9ec/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 - Barocas, S., Hardt, M. y Narayanan, A.
   [Fairness in Machine Learning: Limitations and Opportunities, Capítulo 1](https://drive.google.com/file/d/1eYkgWyBUJshhJuJDzaEFJqNxPk88BoGQ/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1K7ts1ac1DoLjpzGs_ObzHDBwepPKwWaH/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18EkAuSfiCJLMtg94sbufF-sN26NsCWls/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1iitx4S6Bko8rmIi3iXUFs6TPW4v-cqnb/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Fm4yGcQ1CKqV2pehSeXq7LC6jIRYCV-2/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Bryson, J.
