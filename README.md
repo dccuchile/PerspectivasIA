@@ -313,6 +313,8 @@ Bryson, J.
 **Lectura**
 Russell, S. y Norvig, P.
 [Artificial Intelligence: A Modern Approach, Capítulo 28: The Future of AI](https://drive.google.com/file/d/1fpDCCQ5AtorXAQWLNtgvHO_Ubvd8ciVV/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1gfn98-Cdj5GbQoKZiPXdu3LqHYMu474g/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1wanF1xx16vEJ_x8Tj-0XV4Uq6gHk9rkm/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1bXFeYwgEHbu4pbNGSw4cGw-hl_honXsG/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1SzaDEiikxTaI7EsmzvObpR1NzAQLKS31/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Lecturas complementarias**
 
