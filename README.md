@@ -12,7 +12,8 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 
 ## Metodología y evaluación
 
-- Horario: Jueves de 12pm a 14pm.
+- Horario: Jueves de 12pm a 14pm a partir del 09/03/26.
+- Lugar: Auditorio Ramón Picarte, Departamento de Ciencias de la Computación, Avenida Beauchef 851, Piso 3, Edificio Norte.
 - Desde la semana 1 a la 14 existe una lectura obligatoria semanal.
 - Cada lectura obligatoria es evaluada mediante un control breve en clase, consistente en una prueba de selección múltiple de 6 preguntas.
 - Las clases consideran discusión guiada de las lecturas obligatorias.
@@ -306,7 +307,6 @@ Bryson, J.
 ### Semana 15
 
 **Tema:** Cierre del curso - El Futuro de la IA <a href="https://notebooklm.google.com/notebook/9e5a033f-a1a2-442a-bff1-bcce247f3564"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1SwwQd_52WB9Cg3vKDcyrsB6eLIOcwxTY/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
-
 
 
 
