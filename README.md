@@ -12,7 +12,7 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 
 ## Metodología y evaluación
 
-- Horario: Martes de 12pm a 14pm en sala por definir.
+- Horario: Martes de 12pm a 14pm en sala por definir dentro del campus Beauchef de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 - Desde la semana 1 a la 12 existe una lectura obligatoria semanal.
 - Cada lectura obligatoria es evaluada mediante un control breve en clase, consistente en una prueba de selección múltiple de 6 preguntas. 
 - Las clases consideran discusión guiada de las lecturas obligatorias.
