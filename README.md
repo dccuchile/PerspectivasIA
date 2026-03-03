@@ -28,7 +28,8 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 - Presentaciones orales: 30%
 - Examen: 20%
 
-Sobre inasistencias a controles de lectura:
+### Sobre inasistencias a controles de lectura:
+
 El  examen reemplaza automáticamente la peor nota de control de lectura (incluyendo una ausencia injustificada) sin necesidad de justificación.
 
 Si se falta a un control de lectura y se presenta una justificación formal, el examen reemplaza esa ausencia, pero no reemplaza la peor nota de los controles de lectura asistidos o de alguna inasistencia injustificada.
@@ -243,8 +244,7 @@ Friston, K.
 ### Semana 11
 
 **Tema:** Robótica <a href="https://notebooklm.google.com/notebook/b223e534-ac98-4218-b4b6-b1c89efb205b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/19Gqe_aUC4vZHltK5E8oBUG3KIP4d9QSd/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
-<br>
-  <a href="https://drive.google.com/file/d/1bS7s_OFjr5QOrth6JLuhWyny5Vtc5UH4/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1E2Yaf2ksmqMV1F0glvtoT4NcxHgOwuow/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1I9yw8dVVtYPZrOUXITyK795JbG5r9ViK/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1SzPeQV5ONrpgkfUw23DloLsMtoi8szuf/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+
 
 
 
@@ -252,6 +252,8 @@ Friston, K.
 **Lectura obligatoria**
 Bermúdez, J.
 [Introduction to Cognitive Science, Capítulo 14 - Robotics: From GOFAI to Situated Cognition and Behavior-Based Robotics](https://drive.google.com/file/d/1FWcsPcqKj4R7DepA3iban4b8i0y8lg9v/view)
+<br>
+  <a href="https://drive.google.com/file/d/1bS7s_OFjr5QOrth6JLuhWyny5Vtc5UH4/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1NRfMjMww449IBP1jJBKK0kLmTM2WFFR6/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1I9yw8dVVtYPZrOUXITyK795JbG5r9ViK/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1SzPeQV5ONrpgkfUw23DloLsMtoi8szuf/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 
 **Presentación estudiantes**
@@ -275,9 +277,13 @@ Capuano, F. et al.
 
 - Doshi Velez, F. y Kim, B.
   [Towards a Rigorous Science of Interpretable Machine Learning](https://drive.google.com/file/d/1Z_9gblUIQhqqUyfsERz36UDB3fpvM5Y-/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1AMLTXaj5umYwDApxPZvg98TzDt1dKu6E/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Sqqk6mRjcKj3uN9FXvpz4tcsAfYEqYem/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1elIXkua1XbNX7nrTSUwvZ0DgksgBMY_t/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1h66_QwM-ydtsOzwRg7t0VyPheLhXm9ec/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 - Barocas, S., Hardt, M. y Narayanan, A.
   [Fairness in Machine Learning: Limitations and Opportunities, Capítulo 1](https://drive.google.com/file/d/1eYkgWyBUJshhJuJDzaEFJqNxPk88BoGQ/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1K7ts1ac1DoLjpzGs_ObzHDBwepPKwWaH/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18EkAuSfiCJLMtg94sbufF-sN26NsCWls/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1iitx4S6Bko8rmIi3iXUFs6TPW4v-cqnb/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Fm4yGcQ1CKqV2pehSeXq7LC6jIRYCV-2/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Bryson, J.
@@ -323,10 +329,11 @@ Bryson, J.
 
 
 
-
 **Lectura**
 Russell, S. y Norvig, P.
 [Artificial Intelligence: A Modern Approach, Capítulo 28: The Future of AI](https://drive.google.com/file/d/1fpDCCQ5AtorXAQWLNtgvHO_Ubvd8ciVV/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1gfn98-Cdj5GbQoKZiPXdu3LqHYMu474g/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1wanF1xx16vEJ_x8Tj-0XV4Uq6gHk9rkm/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1bXFeYwgEHbu4pbNGSw4cGw-hl_honXsG/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1SzaDEiikxTaI7EsmzvObpR1NzAQLKS31/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Lecturas complementarias**
 
