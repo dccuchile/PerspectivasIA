@@ -12,11 +12,12 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 
 ## Metodología y evaluación
 
-- Horario: Jueves de 12pm a 14pm.
+- Horario: Martes de 12pm a 14pm en sala por definir.
 - Desde la semana 1 a la 14 existe una lectura obligatoria semanal.
-- Cada lectura obligatoria es evaluada mediante un control breve en clase, consistente en una prueba de selección múltiple de 6 preguntas.
+- Cada lectura obligatoria es evaluada mediante un control breve en clase, consistente en una prueba de selección múltiple de 6 preguntas. 
 - Las clases consideran discusión guiada de las lecturas obligatorias.
 - Desde la semana 2 a la 12, cada semana incluye una presentación grupal de estudiantes de 20 minutos.
+- Los grupos de cada presentación serán asignados por el cuerpo docente. 
 - Las semanas 13 y 14 están dedicadas exclusivamente a presentaciones de estudiantes sobre perspectivas de la IA.
 - La semana 15 corresponde al cierre del curso, sin evaluaciones.
 - El curso contempla un examen final.
@@ -26,6 +27,24 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 - Controles de lectura: 50%
 - Presentaciones orales: 30%
 - Examen: 20%
+
+Sobre inasistencias a controles de lectura:
+El  examen reemplaza automáticamente la peor nota de control de lectura (incluyendo una ausencia injustificada) sin necesidad de justificación.
+
+Si se falta a un control de lectura y se presenta una justificación formal, el examen reemplaza esa ausencia, pero no reemplaza la peor nota de los controles de lectura asistidos o de alguna inasistencia injustificada.
+
+Si existen dos o más inasistencias justificadas formalmente, el examen reemplaza todas ellas, pero no reemplaza la peor nota de los controles de lectura  asistidos o de alguna inasistencia injustificada.
+
+(los mecanismos de justificación son los establecidos por la escuela)
+
+### Recomendaciones Adicionales
+Les recomendamos comprar un cuaderno para el curso. Donde:
+- Pueden tener una hoja por los dos lados con notas escritas a mano sobre la lectura semanal
+- Tomen apuntes en clase sobre las presentaciones de los estudiantes.
+- El cuaderno lo podrán traer al examen.
+
+
+
 
 ------
 
@@ -190,7 +209,7 @@ Bermúdez, J.
 [Introduction to Cognitive Science, Capítulos introductorio y 1](https://drive.google.com/file/d/1U9QqdsV9PjVYgsE6Uc5j-bUkFj_xpDkM/view)
 <br>
   <a href="https://drive.google.com/file/d/1QeiTxNE7JLV_d_DUsiMeKPns4L3WYWBq/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1j0vY4b29TmTqiEhQRdXLg7Cc2K4CZCCa/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11KYcmAh7vmcdiiI69NMmeZOYxQIiGI6E/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Qkgt8knOuUcIGm1-vp1I2XGVnYTtP8we/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
-  
+
 
 **Presentación estudiantes**
 Friston, K.
