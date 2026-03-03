@@ -63,8 +63,13 @@ Russell, S. y Norvig, P.
 
 * McCarthy, J.
   [What is Artificial Intelligence?](https://drive.google.com/file/d/1vhbC1VJkTsTnqDcZWs-Fcf39Tor70mvw/view)
+  
 * Rusell, S.
   [Human Compatible Artificial Intelligence, Apéndice (introducción breve a la búsqueda, lógica, incertidumbre y aprendizaje)](https://drive.google.com/file/d/1s8qtpwXI-ECtgmJTucTAOV7QDV833a9M/view?usp=drive_link)
+  
+* Legg, S. y Hutter, M.
+
+   [Universal Intelligence: A Definition of Machine Intelligence](https://drive.google.com/file/d/1GAOrluEgESoZO8DQcPr0K19kZML4xQYZ/view?usp=sharing)
 
 ------
 
@@ -101,8 +106,6 @@ Serre, T.
 ### Semana 4
 
 **Tema:** Aprendizaje de representaciones <a href="https://notebooklm.google.com/notebook/c13e49df-a569-4406-9e6d-084e4bc63063"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/11CAvuyW1YE4uk2QYRKV4kLsBy4w2kFbt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
-
-
 
 **Lectura obligatoria**
 Bengio, Y., Courville, A. y Vincent, P.
