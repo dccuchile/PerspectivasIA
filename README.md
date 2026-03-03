@@ -13,12 +13,11 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 ## Metodología y evaluación
 
 - Horario: Martes de 12pm a 14pm en sala por definir.
-- Desde la semana 1 a la 14 existe una lectura obligatoria semanal.
+- Desde la semana 1 a la 12 existe una lectura obligatoria semanal.
 - Cada lectura obligatoria es evaluada mediante un control breve en clase, consistente en una prueba de selección múltiple de 6 preguntas. 
 - Las clases consideran discusión guiada de las lecturas obligatorias.
-- Desde la semana 2 a la 12, cada semana incluye una presentación grupal de estudiantes de 20 minutos.
+- Desde la semana 2 a la 14, cada semana incluye una o más presentaciones grupales de estudiantes de 20 minutos.
 - Los grupos de cada presentación serán asignados por el cuerpo docente. 
-- Las semanas 13 y 14 están dedicadas exclusivamente a presentaciones de estudiantes sobre perspectivas de la IA.
 - La semana 15 corresponde al cierre del curso, sin evaluaciones.
 - El curso contempla un examen final.
 
