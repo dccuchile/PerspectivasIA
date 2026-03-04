@@ -12,7 +12,7 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 
 ## Metodología y evaluación
 
-- Horario: Martes de 12pm a 14pm en sala por definir dentro del campus Beauchef de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
+- Horario: Martes de 12pm a 14pm a partir del martes 10 de marzo en sala por definir dentro del campus Beauchef de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 - Desde la semana 1 a la 12 existe una lectura obligatoria semanal.
 - Cada lectura obligatoria es evaluada mediante un control breve en clase, consistente en una prueba de selección múltiple de 6 preguntas. 
 - Las clases consideran discusión guiada de las lecturas obligatorias.
@@ -42,6 +42,13 @@ Les recomendamos comprar un cuaderno para el curso. Donde:
 - Pueden tener una hoja por los dos lados con notas escritas a mano sobre la lectura semanal
 - Tomen apuntes en clase sobre las presentaciones de los estudiantes.
 - El cuaderno lo podrán traer al examen.
+
+### Para Participar como Oyente
+
+- Es posible participar como oyente de manera presencial para personas ajenas a la comunidad de la Universidad de Chile.
+- Ingrese a las dependencias de la Facultad de Ciencias Físicas y Matemáticas, regístrese como invitado y diga que asiste a una actividad de extensión del Departamento de Ciencias de la Computación para luego dirigirse a la sala de clases por definir que será anunciada por este medio.
+- En caso de que la concurrencia supere el espacio de la sala se le dará prioridad a los alumnos inscritos al curso y buscaremos la forma de grabar las clases.
+- No habrá registro de participantes ni ofrecemos certificación alguna.
 
 
 
