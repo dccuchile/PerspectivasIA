@@ -59,7 +59,7 @@ Les recomendamos comprar un cuaderno para el curso. Donde:
 
 ### Semana 1
 
-**Tema:** ¿Qué es la Inteligencia Artificial?  <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1KAdn1icH1g9al0hdkFWsy4jiP7cqG3Nt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a>
+**Tema:** ¿Qué es la Inteligencia Artificial?  <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1KAdn1icH1g9al0hdkFWsy4jiP7cqG3Nt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a>  <a href=" https://youtu.be/LNxCeJM8yt4"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a> 
 
 **Lectura obligatoria**
 Russell, S. y Norvig, P.
