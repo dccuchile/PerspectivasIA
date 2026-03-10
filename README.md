@@ -10,6 +10,8 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 
 [Programa Oficial del Curso](https://drive.google.com/file/d/1zukjX77dHfpcZ-58Wuosn9lYD1vxJfjR/view?usp=sharing)
 
+[Playlist con las grabaciones de las clases](https://www.youtube.com/playlist?list=PLppKo85eGXiUFty4hbyI-0v93nb5UoQfO)
+
 ## Metodología y evaluación
 
 - Horario: Martes de 12pm a 14pm a partir del martes 10 de marzo en sala **B08** del campus Beauchef de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile. Avenida Beauchef 851, piso -1. 
