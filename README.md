@@ -80,7 +80,7 @@ Russell, S. y Norvig, P.
 
 ### Semana 2
 
-**Tema:** Agentes <a href="https://notebooklm.google.com/notebook/b3be1d58-b5a0-426c-bf86-ccc791c89fc2"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1dRm_6ZH2Ma0FfKxIdw6uhMWm571PJ37b/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a>
+**Tema:** Agentes <a href="https://notebooklm.google.com/notebook/b3be1d58-b5a0-426c-bf86-ccc791c89fc2"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1dRm_6ZH2Ma0FfKxIdw6uhMWm571PJ37b/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/mugoBn7c2j8"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>     
 
 **Lectura obligatoria**
 Russell, S. y Norvig, P.
