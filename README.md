@@ -106,9 +106,16 @@ Schmidhuber, J.
 Serre, T.
 [Deep Learning: The Good, the Bad, and the Ugly](https://drive.google.com/file/d/1W7g4HbWuaZx_xJ4pC4JQ09KzRDpd2tO5/view)
 
+**Lecturas complementarias**
+
+* LeCun, Y., Bengio, Y. y Hinton, G.
+  [Deep Learning](https://drive.google.com/file/d/1aN48Mj1XjYSjjYth4JwdvmxWE4Uqw75B/view?usp=sharing)
+* Goodfellow, I., Bengio, Y. y Courville, A. 
+  [Deep Learning, Capítulo 1](https://drive.google.com/file/d/1iCoRj5EPdpsxKBDZjguB_XJkxFWjaLIn/view?usp=sharing)
+
 ------
 
-### Semana 4
+### Semana 4 
 
 **Tema:** Aprendizaje de representaciones <a href="https://notebooklm.google.com/notebook/c13e49df-a569-4406-9e6d-084e4bc63063"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/11CAvuyW1YE4uk2QYRKV4kLsBy4w2kFbt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
