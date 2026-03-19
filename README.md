@@ -130,7 +130,7 @@ Chen, T. et al.
 [A Simple Framework for Contrastive Learning of Visual Representations](https://drive.google.com/file/d/186vuoS80-WAGhMOgDG1n0xGYS1PPdUBf/view)
 
 
-**Lecturas complementaria**
+**Lectura complementaria**
 
 * Hinton, G.
   [Nobel Lecture: Boltzmann machines](https://drive.google.com/file/d/1VeUyvzx-HmnvD4g7sZnJ-z2sZVXjU57l/view?usp=sharing)
