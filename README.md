@@ -156,48 +156,7 @@ Silver, D. et al.
 [Reward is Enough](https://drive.google.com/file/d/1MUiUN4uDHrVHALf6aciSAMMexR5Z6eMY/view)
 
 ------
-
 ### Semana 6
-
-**Tema:** Razonamiento y conocimiento <a href="https://notebooklm.google.com/notebook/77779640-1cf0-4a8b-b208-61279d37c2fc"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/19nPlVqwxt6vE-y-GO7bmbX1etmozhtJU/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
-
-**Lecturas obligatorias**
-
-- Brachman, R. y Levesque, H.
-  [Knowledge Representation and Reasoning, Capítulo 1](https://drive.google.com/file/d/1aM_hIXAKlP9BJV9MKrU_5msGmO0WFYYI/view)
-  <br>
-  <a href="https://drive.google.com/file/d/1TZtqDBpzN2va2cxVEivNp18MA0LuVBlc/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pwzd0CSliK1h7DKXUQFp5FwsPOjBi82P/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1WWl8ajOIHGtB-WUNbPLZ1BAFdzZGtxmU/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1LPSeXGy705WU3hJTENyQFc9mexBbV0Ic/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
-
-- Nilsson, N.
-  [The Quest for Artificial Intelligence, Capítulo 26: Reasoning and Representation](https://drive.google.com/file/d/1a56vhtDabFqd16NaTPOm2gldSLqXhZ7W/view)
-    <br>
-  <a href="https://drive.google.com/file/d/15dchLWrXxgtPyw9hD61Nr4Qxvkk3vyre/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18XqQ-l_ze3B3CN_7taeJDIcwgi1CFaBN/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pMs3N-LLsc5ulgSg6BlH8W0Gx4qvkFZz/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1ugjMSstWx_ooyDMGc9pUVH1ocoUJoStP/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
-
-**Presentación estudiantes**
-Davis, R., Shrobe, H. y Szolovits, P.
-[What is a Knowledge Representation?](https://drive.google.com/file/d/1qC1r_7abgc7wY3C6Vq_grB9k_jQk_dT8/view)
-
-------
-
-### Semana 7
-
-**Tema:** Percepción y visión <a href="https://notebooklm.google.com/notebook/01bd72f9-2eaf-469c-a831-afa85f9f848b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1squFQ7j01ghplYxXLCRv0aNIFLvgtYds/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
-
-
-
-**Lectura obligatoria**
-Torralba, A., Isola, P. y Freeman, W.
-[Foundations of Computer Vision, Capítulo 1](https://drive.google.com/file/d/1o54NbuM7rVjijUlzodhgEpW1kUgcv0XU/view)
-    <br>
-<a href="https://drive.google.com/file/d/1P8KlRQzxLqU46JFaBrYwD21bP4CZCsSS/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1vwf2uGeEFFBBA-PwFXjYNytwiWwj1Z5-/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_TBUINkEBZ-GqOwFH0zupBLg1m3DM3uc/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11uzS3O7fEiUhhg4arvtayxFfMJHwVr7_/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
-
-**Presentación estudiantes**
-Marr, D.
-[Vision, Capítulo 1](https://drive.google.com/file/d/17Aq-i5wlUOG2CVIaVWPnrMRz8MVe-rOH/view)
-
-------
-
-### Semana 8
 
 **Tema:** Lenguaje <a href="https://notebooklm.google.com/notebook/952fc3d1-54d6-4ade-863c-772d2f23665e"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1Nl8LlDwm7-bw3DEEczYBATvgAoH8298Z/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
@@ -221,49 +180,27 @@ Brown, T. et al.
 
 ------
 
-### Semana 9
 
-**Tema:** Cognición y Mente <a href="https://notebooklm.google.com/notebook/71102a05-9276-4d86-a572-add072f6612e"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1S_yU4I6W3FY5-Zg6YfGuCPeML-MQRYvQ/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
+### Semana 7
+
+**Tema:** Percepción y visión <a href="https://notebooklm.google.com/notebook/01bd72f9-2eaf-469c-a831-afa85f9f848b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1squFQ7j01ghplYxXLCRv0aNIFLvgtYds/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
 
 
 **Lectura obligatoria**
-Bermúdez, J.
-[Introduction to Cognitive Science, Capítulos introductorio y 1](https://drive.google.com/file/d/1U9QqdsV9PjVYgsE6Uc5j-bUkFj_xpDkM/view)
-<br>
-  <a href="https://drive.google.com/file/d/1QeiTxNE7JLV_d_DUsiMeKPns4L3WYWBq/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1j0vY4b29TmTqiEhQRdXLg7Cc2K4CZCCa/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11KYcmAh7vmcdiiI69NMmeZOYxQIiGI6E/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Qkgt8knOuUcIGm1-vp1I2XGVnYTtP8we/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
-
+Torralba, A., Isola, P. y Freeman, W.
+[Foundations of Computer Vision, Capítulo 1](https://drive.google.com/file/d/1o54NbuM7rVjijUlzodhgEpW1kUgcv0XU/view)
+    <br>
+<a href="https://drive.google.com/file/d/1P8KlRQzxLqU46JFaBrYwD21bP4CZCsSS/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1vwf2uGeEFFBBA-PwFXjYNytwiWwj1Z5-/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_TBUINkEBZ-GqOwFH0zupBLg1m3DM3uc/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11uzS3O7fEiUhhg4arvtayxFfMJHwVr7_/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
-Friston, K.
-[The Free Energy Principle: A Unified Brain Theory?](https://drive.google.com/file/d/1ETCbFmQiZUSQ-O6G--kuSe4YLHXt8elu/view)
+Marr, D.
+[Vision, Capítulo 1](https://drive.google.com/file/d/17Aq-i5wlUOG2CVIaVWPnrMRz8MVe-rOH/view)
 
 ------
 
-### Semana 10
 
-**Tema:** Conciencia <a href="https://notebooklm.google.com/notebook/bdd8bdf1-3076-4546-a72b-d06de6e9cd78"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1jWYAyS6Oupr8qeKsMGXV7r_jrRaALxi4/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
-
-
-
-**Lecturas obligatorias**
-
-- Chalmers, D.
-  [The Conscious Mind, Capítulo 1](https://drive.google.com/file/d/1USqaUs0lCnfDVeS0PT-Fd1hAK9EjehMH/view)
-  <br>
-  <a href="https://drive.google.com/file/d/1-aaxURIuwxXppT52DZbOyeaTuHNoG824/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18q8yAB4SLqhj0L5wH_csfq4w4GX1Dsx7/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_oVP3XhrD8ddDp_-5Ccz-beR4L-A5Jeh/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_sGFhYrq940kpo4Wy0BiCl5VFDcU9tE2/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
-
-- Chalmers, D.
-  [Could a Large Language Model be Conscious?](https://drive.google.com/file/d/14fshOGNmL4XK9ta0sDlPAeF5OdN_IGFS/view)
-  <br>
-  <a href="https://drive.google.com/file/d/14RKeNsnFFAm_Yr7Tyh08BTDb7RRoVA_F/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1E2Yaf2ksmqMV1F0glvtoT4NcxHgOwuow/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/17SQ1FK87au0YD2_cXL1DKpnlWbAoZf27/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_sGFhYrq940kpo4Wy0BiCl5VFDcU9tE2/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
-
-**Presentación estudiantes**
-[Identifying Indicators of Consciousness in AI Systems](https://drive.google.com/file/d/14DULodBmdTLnWKgNfPTMpLMhQMA0xgG_/view)
-
-------
-
-### Semana 11
+### Semana 8
 
 **Tema:** Robótica <a href="https://notebooklm.google.com/notebook/b223e534-ac98-4218-b4b6-b1c89efb205b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/19Gqe_aUC4vZHltK5E8oBUG3KIP4d9QSd/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
 
@@ -288,6 +225,72 @@ Capuano, F. et al.
 
 
 ------
+
+### Semana 9
+
+**Tema:** Razonamiento y conocimiento <a href="https://notebooklm.google.com/notebook/77779640-1cf0-4a8b-b208-61279d37c2fc"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/19nPlVqwxt6vE-y-GO7bmbX1etmozhtJU/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
+
+**Lecturas obligatorias**
+
+- Brachman, R. y Levesque, H.
+  [Knowledge Representation and Reasoning, Capítulo 1](https://drive.google.com/file/d/1aM_hIXAKlP9BJV9MKrU_5msGmO0WFYYI/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1TZtqDBpzN2va2cxVEivNp18MA0LuVBlc/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pwzd0CSliK1h7DKXUQFp5FwsPOjBi82P/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1WWl8ajOIHGtB-WUNbPLZ1BAFdzZGtxmU/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1LPSeXGy705WU3hJTENyQFc9mexBbV0Ic/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+
+- Nilsson, N.
+  [The Quest for Artificial Intelligence, Capítulo 26: Reasoning and Representation](https://drive.google.com/file/d/1a56vhtDabFqd16NaTPOm2gldSLqXhZ7W/view)
+    <br>
+  <a href="https://drive.google.com/file/d/15dchLWrXxgtPyw9hD61Nr4Qxvkk3vyre/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18XqQ-l_ze3B3CN_7taeJDIcwgi1CFaBN/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pMs3N-LLsc5ulgSg6BlH8W0Gx4qvkFZz/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1ugjMSstWx_ooyDMGc9pUVH1ocoUJoStP/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+
+**Presentación estudiantes**
+Davis, R., Shrobe, H. y Szolovits, P.
+[What is a Knowledge Representation?](https://drive.google.com/file/d/1qC1r_7abgc7wY3C6Vq_grB9k_jQk_dT8/view)
+
+------
+
+### Semana 10
+
+**Tema:** Cognición y Mente <a href="https://notebooklm.google.com/notebook/71102a05-9276-4d86-a572-add072f6612e"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1S_yU4I6W3FY5-Zg6YfGuCPeML-MQRYvQ/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
+
+
+
+**Lectura obligatoria**
+Bermúdez, J.
+[Introduction to Cognitive Science, Capítulos introductorio y 1](https://drive.google.com/file/d/1U9QqdsV9PjVYgsE6Uc5j-bUkFj_xpDkM/view)
+<br>
+  <a href="https://drive.google.com/file/d/1QeiTxNE7JLV_d_DUsiMeKPns4L3WYWBq/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1j0vY4b29TmTqiEhQRdXLg7Cc2K4CZCCa/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11KYcmAh7vmcdiiI69NMmeZOYxQIiGI6E/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Qkgt8knOuUcIGm1-vp1I2XGVnYTtP8we/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+
+
+**Presentación estudiantes**
+Friston, K.
+[The Free Energy Principle: A Unified Brain Theory?](https://drive.google.com/file/d/1ETCbFmQiZUSQ-O6G--kuSe4YLHXt8elu/view)
+
+------
+
+### Semana 11
+
+**Tema:** Conciencia <a href="https://notebooklm.google.com/notebook/bdd8bdf1-3076-4546-a72b-d06de6e9cd78"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1jWYAyS6Oupr8qeKsMGXV7r_jrRaALxi4/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
+
+
+
+**Lecturas obligatorias**
+
+- Chalmers, D.
+  [The Conscious Mind, Capítulo 1](https://drive.google.com/file/d/1USqaUs0lCnfDVeS0PT-Fd1hAK9EjehMH/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1-aaxURIuwxXppT52DZbOyeaTuHNoG824/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18q8yAB4SLqhj0L5wH_csfq4w4GX1Dsx7/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_oVP3XhrD8ddDp_-5Ccz-beR4L-A5Jeh/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_sGFhYrq940kpo4Wy0BiCl5VFDcU9tE2/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+
+- Chalmers, D.
+  [Could a Large Language Model be Conscious?](https://drive.google.com/file/d/14fshOGNmL4XK9ta0sDlPAeF5OdN_IGFS/view)
+  <br>
+  <a href="https://drive.google.com/file/d/14RKeNsnFFAm_Yr7Tyh08BTDb7RRoVA_F/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1E2Yaf2ksmqMV1F0glvtoT4NcxHgOwuow/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/17SQ1FK87au0YD2_cXL1DKpnlWbAoZf27/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_sGFhYrq940kpo4Wy0BiCl5VFDcU9tE2/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+
+**Presentación estudiantes**
+[Identifying Indicators of Consciousness in AI Systems](https://drive.google.com/file/d/14DULodBmdTLnWKgNfPTMpLMhQMA0xgG_/view)
+
+------
+
+
 
 ### Semana 12
 
