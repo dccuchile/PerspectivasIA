@@ -108,6 +108,8 @@ Serre, T.
 
 **Lecturas complementarias**
 
+* Mitchell, T.
+  [Machine Learning, Capítulo 1](https://drive.google.com/file/d/1326RnM6XlLSULstE3hVeWkeZ5-I4WQjQ/view?usp=sharing)
 * LeCun, Y., Bengio, Y. y Hinton, G.
   [Deep Learning](https://drive.google.com/file/d/1aN48Mj1XjYSjjYth4JwdvmxWE4Uqw75B/view?usp=sharing)
 * Goodfellow, I., Bengio, Y. y Courville, A. 
