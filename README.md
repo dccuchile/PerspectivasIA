@@ -134,8 +134,7 @@ Chen, T. et al.
 
 **Lectura complementaria**
 
-* Hinton, G.
-  [Nobel Lecture: Boltzmann machines](https://drive.google.com/file/d/1VeUyvzx-HmnvD4g7sZnJ-z2sZVXjU57l/view?usp=sharing)
+Hinton, G. [Nobel Lecture: Boltzmann machines](https://drive.google.com/file/d/1VeUyvzx-HmnvD4g7sZnJ-z2sZVXjU57l/view?usp=sharing)
 
 
 
@@ -196,8 +195,16 @@ Torralba, A., Isola, P. y Freeman, W.
 <a href="https://drive.google.com/file/d/1P8KlRQzxLqU46JFaBrYwD21bP4CZCsSS/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1vwf2uGeEFFBBA-PwFXjYNytwiWwj1Z5-/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_TBUINkEBZ-GqOwFH0zupBLg1m3DM3uc/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11uzS3O7fEiUhhg4arvtayxFfMJHwVr7_/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
+Torralba, A. y Efros, A.
+[Unbiased Look at Dataset Bias](https://drive.google.com/file/d/1C5m_XJohMToKfbvYj0E6fl-4XMZetDJr/view?usp=sharing)
+
+
+**Lectura complementaria**
+
 Marr, D.
 [Vision, Capítulo 1](https://drive.google.com/file/d/17Aq-i5wlUOG2CVIaVWPnrMRz8MVe-rOH/view)
+
+
 
 ------
 
