@@ -241,7 +241,7 @@ Capuano, F. et al.
 
 **Lecturas obligatorias**
 
-- Brachman, R. y Levesque, H.
+- Brachman, R. y Levesque, H.Foundations of Computer Vision
   [Knowledge Representation and Reasoning, Capítulo 1](https://drive.google.com/file/d/1aM_hIXAKlP9BJV9MKrU_5msGmO0WFYYI/view)
   <br>
   <a href="https://drive.google.com/file/d/1TZtqDBpzN2va2cxVEivNp18MA0LuVBlc/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pwzd0CSliK1h7DKXUQFp5FwsPOjBi82P/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1WWl8ajOIHGtB-WUNbPLZ1BAFdzZGtxmU/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1LPSeXGy705WU3hJTENyQFc9mexBbV0Ic/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
@@ -252,6 +252,10 @@ Capuano, F. et al.
   <a href="https://drive.google.com/file/d/15dchLWrXxgtPyw9hD61Nr4Qxvkk3vyre/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18XqQ-l_ze3B3CN_7taeJDIcwgi1CFaBN/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pMs3N-LLsc5ulgSg6BlH8W0Gx4qvkFZz/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1ugjMSstWx_ooyDMGc9pUVH1ocoUJoStP/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
+Besold, T. R. et al. 
+  [Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://drive.google.com/file/d/1wvh1rHhWPlEbAdYgVTJLhlt6u0mpyIf3/view?usp=sharing)
+
+**Lectura complementaria**
 Davis, R., Shrobe, H. y Szolovits, P.
 [What is a Knowledge Representation?](https://drive.google.com/file/d/1qC1r_7abgc7wY3C6Vq_grB9k_jQk_dT8/view)
 
@@ -350,8 +354,6 @@ Bryson, J.
   [The Consciousness Prior](https://drive.google.com/file/d/1JRHQy-Fv7Mh9sTMVcMFiPHDvaG77PTV8/view)
 - LeCun, Y.
   [A Path Towards Autonomous Machine Intelligence](https://drive.google.com/file/d/1q7o76dr9CQYs57Se7tjnI8R_04sKiwXo/view)
-- Besold, T. R. et al. 
-  [Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://drive.google.com/file/d/1wvh1rHhWPlEbAdYgVTJLhlt6u0mpyIf3/view?usp=sharing)
 - Hooker, S.
   [The Hardware Lottery](https://drive.google.com/file/d/1imwhBCObJEU9UOja9NsUnqtaKhExxEjC/view)
 
