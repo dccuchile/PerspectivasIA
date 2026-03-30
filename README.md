@@ -132,10 +132,10 @@ Chen, T. et al.
 [A Simple Framework for Contrastive Learning of Visual Representations](https://drive.google.com/file/d/186vuoS80-WAGhMOgDG1n0xGYS1PPdUBf/view)
 
 
-**Lectura complementaria**
+**Lecturas complementarias**
 
-Hinton, G. [Nobel Lecture: Boltzmann machines](https://drive.google.com/file/d/1VeUyvzx-HmnvD4g7sZnJ-z2sZVXjU57l/view?usp=sharing)
-
+- Torralba, A., Isola, P. y Freeman, W. [Foundations of Computer Vision, Capítulo 30: Representation Learning](https://drive.google.com/file/d/1xmRNXCkn1elabuq7k7wSqcGcAwdz60NU/view?usp=sharing)
+- Hinton, G. [Nobel Lecture: Boltzmann machines](https://drive.google.com/file/d/1VeUyvzx-HmnvD4g7sZnJ-z2sZVXjU57l/view?usp=sharing)
 
 
 ------
