@@ -95,12 +95,13 @@ Park, J. S. et al.
 
 ### Semana 3
 
-**Tema:** Aprendizaje profundo <a href="https://notebooklm.google.com/notebook/d51220ea-33fd-4876-b746-b22399391c5b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1jSggl-dRO1cByeG6NthWb1JCRzhISSvo/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
+**Tema:** Aprendizaje profundo <a href="https://notebooklm.google.com/notebook/d51220ea-33fd-4876-b746-b22399391c5b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1jSggl-dRO1cByeG6NthWb1JCRzhISSvo/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/Cr9mv56jVow"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>       
 
 **Lectura obligatoria**
 Schmidhuber, J.
 [Deep Learning in Neural Networks: An Overview](https://drive.google.com/file/d/1hnLKKr8089Bl1xX5ApEiEO-d4UrjMmPP/view) <br>
 <a href="https://drive.google.com/file/d/1bMEPJ9wdNp5tM6SEXLQvitc6K7TlIdeH/view?usp=sharing"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1E0IMoC1ZekCz8X8DjyRu8bvWdWqIVCBt/view?usp=sharing"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18agMrnVw4iF9M1w3P_STGRyXW5BdZene/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pf_UbGFNVkBILbVFm5Ao1niVGa4eytf3/view?usp=sharing"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+
 
 **Presentación estudiantes**
 Serre, T.
