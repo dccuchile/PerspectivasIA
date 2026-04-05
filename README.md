@@ -164,7 +164,7 @@ Silver, D. et al.
 **Lecturas complementarias**
 
 * Sutton, R.  y Barto, A.
-  [Reinforcement Learning: An Introduction, Capítulo 1,2 y 3](https://drive.google.com/file/d/1xnbWlFDrpjKb4hjIswO9O_C30p9zYdiV/view?usp=drive_link)
+  [Reinforcement Learning: An Introduction, Capítulos 1,2 y 3](https://drive.google.com/file/d/1xnbWlFDrpjKb4hjIswO9O_C30p9zYdiV/view?usp=drive_link)
 * Mortiz, H. y Recht, B.
   [Patterns, Predictions, and Actions, Capítulo 12: Reinforcement Learning](https://drive.google.com/file/d/1b8wNKvvmRYhrvzUT2hHxiHQyfW9bgjne/view?usp=drive_link)
 * Ng, Andrew
