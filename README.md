@@ -161,6 +161,17 @@ Hugging Face.
 Silver, D. et al.
 [Reward is Enough](https://drive.google.com/file/d/1MUiUN4uDHrVHALf6aciSAMMexR5Z6eMY/view)
 
+**Lecturas complementarias**
+
+* Sutton, R.  y Barto, A.
+  [Reinforcement Learning: An Introduction, Capítulo 1,2 y 3](https://drive.google.com/file/d/1xnbWlFDrpjKb4hjIswO9O_C30p9zYdiV/view?usp=drive_link)
+* Mortiz, H. y Recht, B.
+  [Patterns, Predictions, and Actions, Capítulo 12: Reinforcement Learning](https://drive.google.com/file/d/1b8wNKvvmRYhrvzUT2hHxiHQyfW9bgjne/view?usp=drive_link)
+* Ng, Andrew
+  [Machine Learning Apunte parte 13: Reinforcement Learning and Control](https://drive.google.com/file/d/1osDXqGs2wz3E3PRYnmkZJa5ecFXI1lUL/view?usp=sharing)
+
+
+
 ------
 ### Semana 6
 
