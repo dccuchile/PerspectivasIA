@@ -91,6 +91,13 @@ Russell, S. y Norvig, P.
 Park, J. S. et al.
 [Generative Agents: Interactive Simulacra of Human Behavior](https://drive.google.com/file/d/1T9eF6A_NpI1xREZPZvMV3dOVUZmOyNQ9/view)
 
+**Lectura complementaria**
+
+Shapira, N., et al.
+[Agents of Chaos](https://drive.google.com/file/d/1muMJud1MOH1limLiyMMElHtGsE4p7RUt/view?usp=drive_link)
+
+
+
 ------
 
 ### Semana 3
@@ -122,10 +129,6 @@ Serre, T.
 
 **Tema:** Aprendizaje de representaciones <a href="https://notebooklm.google.com/notebook/c13e49df-a569-4406-9e6d-084e4bc63063"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/11CAvuyW1YE4uk2QYRKV4kLsBy4w2kFbt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/rLZyW7pQhoE"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>    
 
-
-
-
-
 **Lectura obligatoria**
 Bengio, Y., Courville, A. y Vincent, P.
 [Representation Learning: A Review and New Perspectives](https://drive.google.com/file/d/1KZOtIAgQSbawyK95LqrHxyrRMYoCiIpL/view) 
@@ -155,7 +158,7 @@ Chen, T. et al.
 Hugging Face.
 [Deep Reinforcement Learning Course, Capítulos 1 y 2](https://drive.google.com/file/d/1tXDMBQ0XqEMsHx7Anq7HDidlEccVZ-I_/view)
 <br>
-<a href="https://drive.google.com/file/d/1GLTSCEs1y6lURdm0O-XTb3ozx_ZuvuYG/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Te_SzOL7u8H-5AWfXjlDctqy9MYXNcks/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/15WrYX9Ey72lAmUG9Qmrouoi-N10pwsle/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1VAcJFgRkKpxftXXjzrOM6z9qkNITq7Ff/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+<a href="https://drive.google.com/file/d/1HCVYVNA6jNmowvm_U6DQ6vxsWXqUPow0/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1YOAerv5SbQbNyHZ9UuwpY6bKdk8mY6Vc/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1bL-ssRQYK950gkpylccOyqj4yzW00tCH/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1aqWafggaCOv7Zi2Fi4T1-GJbnGmdpWoT/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Silver, D. et al.
@@ -213,7 +216,6 @@ Torralba, A., Isola, P. y Freeman, W.
 **Presentación estudiantes**
 Torralba, A. y Efros, A.
 [Unbiased Look at Dataset Bias](https://drive.google.com/file/d/1C5m_XJohMToKfbvYj0E6fl-4XMZetDJr/view?usp=sharing)
-
 
 **Lectura complementaria**
 
