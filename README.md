@@ -156,7 +156,7 @@ Chen, T. et al.
 
 **Lectura obligatoria**
 Hugging Face.
-[Deep Reinforcement Learning Course, Capítulos 1 y 2](https://drive.google.com/file/d/1tXDMBQ0XqEMsHx7Anq7HDidlEccVZ-I_/view)
+[Deep Reinforcement Learning Course, Capítulos 1 y 2](https://drive.google.com/file/d/1QN1qfwuqhpyEfa9bq2xWI39AjojEPiHK/view?usp=drive_link)
 <br>
 <a href="https://drive.google.com/file/d/1HCVYVNA6jNmowvm_U6DQ6vxsWXqUPow0/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1YOAerv5SbQbNyHZ9UuwpY6bKdk8mY6Vc/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1bL-ssRQYK950gkpylccOyqj4yzW00tCH/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1aqWafggaCOv7Zi2Fi4T1-GJbnGmdpWoT/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
