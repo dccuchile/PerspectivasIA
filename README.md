@@ -173,7 +173,7 @@ Silver, D. et al.
 * Ng, Andrew
   [Machine Learning Apunte parte 13: Reinforcement Learning and Control](https://drive.google.com/file/d/1osDXqGs2wz3E3PRYnmkZJa5ecFXI1lUL/view?usp=sharing)
 * Russell, S. y Norvig, P.
-  [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulo 17 y 22](https://drive.google.com/file/d/1Dg9d6QCRC_PckclpgIKKBGrbJLYqkJxy/view?usp=drive_link)
+  [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulos 17 y 22](https://drive.google.com/file/d/1Dg9d6QCRC_PckclpgIKKBGrbJLYqkJxy/view?usp=drive_link)
 
 
 
