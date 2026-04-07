@@ -230,10 +230,12 @@ Torralba, A., Isola, P. y Freeman, W.
 Torralba, A. y Efros, A.
 [Unbiased Look at Dataset Bias](https://drive.google.com/file/d/1C5m_XJohMToKfbvYj0E6fl-4XMZetDJr/view?usp=sharing)
 
-**Lectura complementaria**
+**Lecturas complementarias**
 
-Marr, D.
-[Vision, Capítulo 1](https://drive.google.com/file/d/17Aq-i5wlUOG2CVIaVWPnrMRz8MVe-rOH/view)
+- Marr, D.
+  [Vision, Capítulo 1](https://drive.google.com/file/d/17Aq-i5wlUOG2CVIaVWPnrMRz8MVe-rOH/view)
+- Russell, S. y Norvig, P.
+  [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulo 25](https://drive.google.com/file/d/1m5ASw7a4mMi8UT5MJOqPUMbaMkeWXKZR/view?usp=sharing)
 
 
 
