@@ -250,9 +250,12 @@ Bermúdez, J.
 International Federation of Robotics.
 [Artificial Intelligence in Robotics](https://drive.google.com/file/d/1W9Oi3NH2VGZJm-9bvq42B4GNhiHSz9fj/view?usp=sharing)
 
-**Lectura complementaria**
-Capuano, F. et al.
-[Robot Learning: A Tutorial](https://drive.google.com/file/d/1f-SqY_0GHOUmGTGgY8xJVuw_nlwf2ejM/view)
+**Lecturas complementarias**
+
+- Capuano, F. et al.
+  [Robot Learning: A Tutorial](https://drive.google.com/file/d/1f-SqY_0GHOUmGTGgY8xJVuw_nlwf2ejM/view)
+- Russell, S. y Norvig, P.
+  [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulo 26](https://drive.google.com/file/d/1SQX3EYQjANTQG3WsaW3-mTcK7DN1r93F/view?usp=sharing)
 
 
 ------
