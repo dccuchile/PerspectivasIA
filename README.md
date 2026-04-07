@@ -122,6 +122,8 @@ Serre, T.
   [Deep Learning](https://drive.google.com/file/d/1aN48Mj1XjYSjjYth4JwdvmxWE4Uqw75B/view?usp=sharing)
 * Goodfellow, I., Bengio, Y. y Courville, A. 
   [Deep Learning, Capítulo 1](https://drive.google.com/file/d/1iCoRj5EPdpsxKBDZjguB_XJkxFWjaLIn/view?usp=sharing)
+* Russell, S. y Norvig, P.
+  [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulo 21](https://drive.google.com/file/d/1fiXwROFzzZWZxZFl7ejMSl2g8_z77ReG/view?usp=drive_link)
 
 ------
 
