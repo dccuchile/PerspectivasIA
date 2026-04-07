@@ -172,6 +172,8 @@ Silver, D. et al.
   [Patterns, Predictions, and Actions, Capítulo 12: Reinforcement Learning](https://drive.google.com/file/d/1b8wNKvvmRYhrvzUT2hHxiHQyfW9bgjne/view?usp=drive_link)
 * Ng, Andrew
   [Machine Learning Apunte parte 13: Reinforcement Learning and Control](https://drive.google.com/file/d/1osDXqGs2wz3E3PRYnmkZJa5ecFXI1lUL/view?usp=sharing)
+* Russell, S. y Norvig, P.
+  [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulo 17 y 22](https://drive.google.com/file/d/1Dg9d6QCRC_PckclpgIKKBGrbJLYqkJxy/view?usp=drive_link)
 
 
 
