@@ -202,6 +202,15 @@ Silver, D. et al.
 Brown, T. et al.
 [Language Models are Few Shot Learners](https://drive.google.com/file/d/1ocNRzIEAzHkuEOlWoxs-_-yJfrKThJYL/view)
 
+
+
+**Lectura complementaria**
+
+Russell, S. y Norvig, P.
+[Artificial Intelligence: A Modern Approach, 4th Edition, Capítulos 23 y 24](https://drive.google.com/file/d/1pmg5Lj-PeW4HfgYLA_MCZL9HO9omB6Ig/view?usp=drive_link)
+
+
+
 ------
 
 
