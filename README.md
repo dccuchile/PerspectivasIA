@@ -292,9 +292,11 @@ International Federation of Robotics.
 Besold, T. R. et al. 
   [Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://drive.google.com/file/d/1wvh1rHhWPlEbAdYgVTJLhlt6u0mpyIf3/view?usp=sharing)
 
-**Lectura complementaria**
-Davis, R., Shrobe, H. y Szolovits, P.
+**Lecturas complementarias**
+- Davis, R., Shrobe, H. y Szolovits, P.
 [What is a Knowledge Representation?](https://drive.google.com/file/d/1qC1r_7abgc7wY3C6Vq_grB9k_jQk_dT8/view)
+- Belle, V. y Marcus, G.
+[The Future Is Neuro-Symbolic: Where Has It Been, and Where Is It Going?](https://drive.google.com/file/d/1GfSHEDm-B9vgrxkWLugTnHRSL9mrAFLI/view?usp=sharing)
 
 ------
 
