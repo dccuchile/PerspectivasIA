@@ -415,7 +415,7 @@ Russell, S. y Norvig, P.
 -  Sutton, R. [The Bitter Lesson](https://drive.google.com/file/d/1BKc3YV0KZ9GcYUGmvAhgs3o0bV9uhuVD/view?usp=sharing)
 -  Hooker, S. [On the slow death of scaling](https://drive.google.com/file/d/1M5XNjog6ZxbzEsSUVMZAijpidar1fyjI/view?usp=sharing)
 - Dupoux, E., LeCun, Y., Malik, J. [Why AI systems don’t learn and what to do about it: Lessons on autonomous learning from cognitive science](https://drive.google.com/file/d/1nPR6ekZRitfHhuSRakqnODlqNetL1GBM/view?usp=sharing)
-
+- Cuéllar, M., et al. [Shaping AI’s Impact on Billions of Lives](https://drive.google.com/file/d/1MTd7gJylXGM46AYCkHA0OuWqvJ5JrD10/view?usp=drive_link)
 
 
 ------
