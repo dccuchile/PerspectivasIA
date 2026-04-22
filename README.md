@@ -282,11 +282,10 @@ International Federation of Robotics.
   [Knowledge Representation and Reasoning, Capítulo 1](https://drive.google.com/file/d/1aM_hIXAKlP9BJV9MKrU_5msGmO0WFYYI/view)
   <br>
   <a href="https://drive.google.com/file/d/1TZtqDBpzN2va2cxVEivNp18MA0LuVBlc/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pwzd0CSliK1h7DKXUQFp5FwsPOjBi82P/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1WWl8ajOIHGtB-WUNbPLZ1BAFdzZGtxmU/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1LPSeXGy705WU3hJTENyQFc9mexBbV0Ic/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+ - Belle, V. y Marcus, G. [The Future Is Neuro-Symbolic: Where Has It Been, and Where Is It Going?](https://drive.google.com/file/d/1GfSHEDm-B9vgrxkWLugTnHRSL9mrAFLI/view?usp=sharing)  <br>
+  <a href="https://drive.google.com/file/d/1J7bGTXfwiPzGEIL3O1PHHtxs9rp6-b9c/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1HjYEhd9o3d-CP07W2-T3csyanZ8o8G-l/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1vTtxWRNYduEhsrIVxLo-QLYHYL9nu4aC/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1o_q_CgUv1yILJc3OGicXNPBOnDiBh8Jd/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a> 
 
-- Nilsson, N.
-  [The Quest for Artificial Intelligence, Capítulo 26: Reasoning and Representation](https://drive.google.com/file/d/1a56vhtDabFqd16NaTPOm2gldSLqXhZ7W/view)
-    <br>
-  <a href="https://drive.google.com/file/d/15dchLWrXxgtPyw9hD61Nr4Qxvkk3vyre/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18XqQ-l_ze3B3CN_7taeJDIcwgi1CFaBN/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pMs3N-LLsc5ulgSg6BlH8W0Gx4qvkFZz/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1ugjMSstWx_ooyDMGc9pUVH1ocoUJoStP/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+
 
 **Presentación estudiantes**
 Besold, T. R. et al. 
@@ -295,8 +294,11 @@ Besold, T. R. et al.
 **Lecturas complementarias**
 - Davis, R., Shrobe, H. y Szolovits, P.
 [What is a Knowledge Representation?](https://drive.google.com/file/d/1qC1r_7abgc7wY3C6Vq_grB9k_jQk_dT8/view)
-- Belle, V. y Marcus, G.
-[The Future Is Neuro-Symbolic: Where Has It Been, and Where Is It Going?](https://drive.google.com/file/d/1GfSHEDm-B9vgrxkWLugTnHRSL9mrAFLI/view?usp=sharing)
+- Nilsson, N.
+  [The Quest for Artificial Intelligence, Capítulo 26: Reasoning and Representation](https://drive.google.com/file/d/1a56vhtDabFqd16NaTPOm2gldSLqXhZ7W/view)
+    <br>
+  <a href="https://drive.google.com/file/d/15dchLWrXxgtPyw9hD61Nr4Qxvkk3vyre/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18XqQ-l_ze3B3CN_7taeJDIcwgi1CFaBN/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1pMs3N-LLsc5ulgSg6BlH8W0Gx4qvkFZz/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1ugjMSstWx_ooyDMGc9pUVH1ocoUJoStP/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+
 
 ------
 
