@@ -182,7 +182,8 @@ Silver, D. et al.
 ------
 ### Semana 6
 
-**Tema:** Lenguaje <a href="https://notebooklm.google.com/notebook/952fc3d1-54d6-4ade-863c-772d2f23665e"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1Nl8LlDwm7-bw3DEEczYBATvgAoH8298Z/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
+**Tema:** Lenguaje <a href="https://notebooklm.google.com/notebook/952fc3d1-54d6-4ade-863c-772d2f23665e"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1Nl8LlDwm7-bw3DEEczYBATvgAoH8298Z/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a><a href="https://youtu.be/MexhJT9pM5Q?si=lqYwseEcfJm4k3m0"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>    
+
 
 
 
