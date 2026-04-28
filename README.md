@@ -75,6 +75,7 @@ Russell, S. y Norvig, P.
 * Rusell, S.
   [Human Compatible Artificial Intelligence, Apéndice (introducción breve a la búsqueda, lógica, incertidumbre y aprendizaje)](https://drive.google.com/file/d/1s8qtpwXI-ECtgmJTucTAOV7QDV833a9M/view?usp=drive_link)
 * Legg, S. y Hutter, M. [Universal Intelligence: A Definition of Machine Intelligence](https://drive.google.com/file/d/1GAOrluEgESoZO8DQcPr0K19kZML4xQYZ/view?usp=sharing)
+* Chollet, F. [On the Measure of Intelligence](https://drive.google.com/file/d/1lUUJ5WjI653q7FBA4BWzXu185JJ340YX/view?usp=sharing)
 
 ------
 
