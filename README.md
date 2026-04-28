@@ -238,6 +238,7 @@ Torralba, A. y Efros, A.
   [Vision, Capítulo 1](https://drive.google.com/file/d/17Aq-i5wlUOG2CVIaVWPnrMRz8MVe-rOH/view)
 - Russell, S. y Norvig, P.
   [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulo 25](https://drive.google.com/file/d/1m5ASw7a4mMi8UT5MJOqPUMbaMkeWXKZR/view?usp=sharing)
+- Caron, M. [Emerging Properties in Self-Supervised Vision Transformers](https://drive.google.com/file/d/1cvDBzb5fZtue7cF_a902YlMy05o_pAmz/view?usp=sharing)
 
 
 
