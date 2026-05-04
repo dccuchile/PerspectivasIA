@@ -218,7 +218,7 @@ Russell, S. y Norvig, P.
 
 ### Semana 7
 
-**Tema:** Percepción y visión <a href="https://notebooklm.google.com/notebook/01bd72f9-2eaf-469c-a831-afa85f9f848b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1squFQ7j01ghplYxXLCRv0aNIFLvgtYds/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> 
+**Tema:** Percepción y visión <a href="https://notebooklm.google.com/notebook/01bd72f9-2eaf-469c-a831-afa85f9f848b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1squFQ7j01ghplYxXLCRv0aNIFLvgtYds/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/rHz93Lnr-7I"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>  
 
 
 
