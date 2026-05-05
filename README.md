@@ -262,7 +262,7 @@ Bermúdez, J.
 
 **Presentación estudiantes**
 International Federation of Robotics.
-[Artificial Intelligence in Robotics](https://drive.google.com/file/d/1W9Oi3NH2VGZJm-9bvq42B4GNhiHSz9fj/view?usp=sharing)
+[Artificial Intelligence in Robotics, 3ra edición](https://drive.google.com/file/d/1qsgSOjWFtIiTc8B3epSL18EmBe_MxA6u/view?usp=sharing)
 
 **Lecturas complementarias**
 
@@ -270,6 +270,8 @@ International Federation of Robotics.
   [Robot Learning: A Tutorial](https://drive.google.com/file/d/1f-SqY_0GHOUmGTGgY8xJVuw_nlwf2ejM/view)
 - Russell, S. y Norvig, P.
   [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulo 26](https://drive.google.com/file/d/1SQX3EYQjANTQG3WsaW3-mTcK7DN1r93F/view?usp=sharing)
+- International Federation of Robotics.
+[Artificial Intelligence in Robotics, 2da edición](https://drive.google.com/file/d/1W9Oi3NH2VGZJm-9bvq42B4GNhiHSz9fj/view?usp=sharing)
 
 
 ------
