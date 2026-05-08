@@ -316,7 +316,7 @@ Besold, T. R. et al.
 Vernon, D.
 [Artificial Cognitive Systems: A Primer, Capítulos 1 y 2](https://drive.google.com/file/d/16vIbRpcZzpbqF1xjANPFtSMmzuBLwCMr/view?usp=sharing)
 <br>
-  <a href="https://drive.google.com/file/d/1QeiTxNE7JLV_d_DUsiMeKPns4L3WYWBq/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1j0vY4b29TmTqiEhQRdXLg7Cc2K4CZCCa/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/11KYcmAh7vmcdiiI69NMmeZOYxQIiGI6E/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Qkgt8knOuUcIGm1-vp1I2XGVnYTtP8we/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+  <a href="https://drive.google.com/file/d/1WtwTvx8apSUFgIm6nh5zmwmXsBMhy7qB/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1fo1uTf57YiATbcwM0g6vCIBzirURkeLe/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1UUtHib1FGiADnf4bL_IQ0Ij57D5QIjvO/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1md_VwFQs0F6FWxPQVTPbYPzpJSxLf0b8/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 
 **Presentación estudiantes**
