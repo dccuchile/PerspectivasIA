@@ -341,11 +341,11 @@ Bermúdez, J.
 
 **Lecturas obligatorias**
 
-- Chalmers, D.
-  [The Conscious Mind, Capítulo 1](https://drive.google.com/file/d/1USqaUs0lCnfDVeS0PT-Fd1hAK9EjehMH/view)
-  <br>
-  <a href="https://drive.google.com/file/d/1-aaxURIuwxXppT52DZbOyeaTuHNoG824/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18q8yAB4SLqhj0L5wH_csfq4w4GX1Dsx7/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_oVP3XhrD8ddDp_-5Ccz-beR4L-A5Jeh/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_sGFhYrq940kpo4Wy0BiCl5VFDcU9tE2/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
+- Bermúdez, J.
+[Introduction to Cognitive Science, Capítulo 15 - The Cognitive Science of Consciousness](https://drive.google.com/file/d/1FWcsPcqKj4R7DepA3iban4b8i0y8lg9v/view)
+<br>
+  <a href="https://drive.google.com/file/d/1GwFkb1jvrTsec0YkKa1_yOP-7REYiuTI/view?usp=sharing"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1NRfMjMww449IBP1jJBKK0kLmTM2WFFR6/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1I9yw8dVVtYPZrOUXITyK795JbG5r9ViK/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1SzPeQV5ONrpgkfUw23DloLsMtoi8szuf/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 - Chalmers, D.
   [Could a Large Language Model be Conscious?](https://drive.google.com/file/d/14fshOGNmL4XK9ta0sDlPAeF5OdN_IGFS/view)
   <br>
@@ -354,6 +354,12 @@ Bermúdez, J.
 **Presentación estudiantes**
 [Identifying Indicators of Consciousness in AI Systems](https://drive.google.com/file/d/14DULodBmdTLnWKgNfPTMpLMhQMA0xgG_/view)
 
+
+**Lectura Complementaria**
+- Chalmers, D.
+  [The Conscious Mind, Capítulo 1](https://drive.google.com/file/d/1USqaUs0lCnfDVeS0PT-Fd1hAK9EjehMH/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1-aaxURIuwxXppT52DZbOyeaTuHNoG824/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18q8yAB4SLqhj0L5wH_csfq4w4GX1Dsx7/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_oVP3XhrD8ddDp_-5Ccz-beR4L-A5Jeh/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1_sGFhYrq940kpo4Wy0BiCl5VFDcU9tE2/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 ------
 
 
