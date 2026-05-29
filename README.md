@@ -342,7 +342,6 @@ Bermúdez, J.
 **Lecturas obligatorias**
 - Bermúdez, J.
 [Introduction to Cognitive Science, Capítulo 15 - The Cognitive Science of Consciousness](https://drive.google.com/file/d/1GwFkb1jvrTsec0YkKa1_yOP-7REYiuTI/view?usp=sharing)
-
   <a href="https://drive.google.com/file/d/1GwFkb1jvrTsec0YkKa1_yOP-7REYiuTI/view?usp=sharing"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1NRfMjMww449IBP1jJBKK0kLmTM2WFFR6/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1I9yw8dVVtYPZrOUXITyK795JbG5r9ViK/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1SzPeQV5ONrpgkfUw23DloLsMtoi8szuf/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a> <br>
 
 - Chalmers, D.
