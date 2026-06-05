@@ -388,6 +388,7 @@ Bryson, J.
 - Bengio, Y., et al. [International AI Safety Report - The International Scientific Report on the Safety of Advanced AI](https://drive.google.com/file/d/18nxIs9tZ_4V3_YBjukpR8mJaAJ-e7Fhk/view?usp=sharing)
 - Bengio, Y., et al. [International ai safety report - First Key Update: Capabilities and Risk Implications](https://drive.google.com/file/d/17hpxMEr8U8047n3iu38aU_1yvRRF8gbR/view?usp=sharing)
 - Bengio, Y., et al. [International ai safety report - Second Key Update: Technical Safeguards and Risk Management](https://drive.google.com/file/d/17hpxMEr8U8047n3iu38aU_1yvRRF8gbR/view?usp=sharing)
+- Bengio, Y., et al. [International AI Safety Report 2026](https://drive.google.com/file/d/18nxIs9tZ_4V3_YBjukpR8mJaAJ-e7Fhk/view?usp=sharing)
 - Barocas, S., Hardt, M. y Narayanan, A.
   [Fairness in Machine Learning: Limitations and Opportunities, Capítulo 1](https://drive.google.com/file/d/1eYkgWyBUJshhJuJDzaEFJqNxPk88BoGQ/view)
   <br>
