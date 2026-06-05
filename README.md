@@ -376,11 +376,8 @@ Bermúdez, J.
   [Towards a Rigorous Science of Interpretable Machine Learning](https://drive.google.com/file/d/1Z_9gblUIQhqqUyfsERz36UDB3fpvM5Y-/view)
   <br>
   <a href="https://drive.google.com/file/d/1AMLTXaj5umYwDApxPZvg98TzDt1dKu6E/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Sqqk6mRjcKj3uN9FXvpz4tcsAfYEqYem/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1elIXkua1XbNX7nrTSUwvZ0DgksgBMY_t/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1h66_QwM-ydtsOzwRg7t0VyPheLhXm9ec/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+- Olah, C. et al. [Zoom In: An Introduction to Circuits](https://drive.google.com/file/d/1nRUZFksxzsMcwGbN7j_jl0j43F9uqqWM/view)
 
-- Barocas, S., Hardt, M. y Narayanan, A.
-  [Fairness in Machine Learning: Limitations and Opportunities, Capítulo 1](https://drive.google.com/file/d/1eYkgWyBUJshhJuJDzaEFJqNxPk88BoGQ/view)
-  <br>
-  <a href="https://drive.google.com/file/d/1K7ts1ac1DoLjpzGs_ObzHDBwepPKwWaH/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18EkAuSfiCJLMtg94sbufF-sN26NsCWls/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1iitx4S6Bko8rmIi3iXUFs6TPW4v-cqnb/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Fm4yGcQ1CKqV2pehSeXq7LC6jIRYCV-2/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 **Presentación estudiantes**
 Bryson, J.
@@ -391,6 +388,10 @@ Bryson, J.
 - Bengio, Y., et al. [International AI Safety Report - The International Scientific Report on the Safety of Advanced AI](https://drive.google.com/file/d/18nxIs9tZ_4V3_YBjukpR8mJaAJ-e7Fhk/view?usp=sharing)
 - Bengio, Y., et al. [International ai safety report - First Key Update: Capabilities and Risk Implications](https://drive.google.com/file/d/17hpxMEr8U8047n3iu38aU_1yvRRF8gbR/view?usp=sharing)
 - Bengio, Y., et al. [International ai safety report - Second Key Update: Technical Safeguards and Risk Management](https://drive.google.com/file/d/17hpxMEr8U8047n3iu38aU_1yvRRF8gbR/view?usp=sharing)
+- Barocas, S., Hardt, M. y Narayanan, A.
+  [Fairness in Machine Learning: Limitations and Opportunities, Capítulo 1](https://drive.google.com/file/d/1eYkgWyBUJshhJuJDzaEFJqNxPk88BoGQ/view)
+  <br>
+  <a href="https://drive.google.com/file/d/1K7ts1ac1DoLjpzGs_ObzHDBwepPKwWaH/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/18EkAuSfiCJLMtg94sbufF-sN26NsCWls/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1iitx4S6Bko8rmIi3iXUFs6TPW4v-cqnb/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1Fm4yGcQ1CKqV2pehSeXq7LC6jIRYCV-2/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 
 ------
