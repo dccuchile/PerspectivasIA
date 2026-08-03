@@ -12,46 +12,6 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 
 [Playlist con las grabaciones de las clases](https://www.youtube.com/playlist?list=PLppKo85eGXiUFty4hbyI-0v93nb5UoQfO)
 
-## Metodología y evaluación
-
-- Horario: Martes de 12pm a 14pm a partir del martes 10 de marzo en sala **B08** del campus Beauchef de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile. Avenida Beauchef 851, piso -1. 
-- Desde la semana 1 a la 12 existe una lectura obligatoria semanal.
-- Cada lectura obligatoria es evaluada mediante un control breve en clase, consistente en una prueba de selección múltiple de 6 preguntas. 
-- Las clases consideran discusión guiada de las lecturas obligatorias.
-- Desde la semana 2 a la 14, cada semana incluye una o más presentaciones grupales de estudiantes de 20 minutos.
-- Los grupos de cada presentación serán asignados por el cuerpo docente. 
-- La semana 15 corresponde al cierre del curso, sin evaluaciones.
-- El curso contempla un examen final.
-
-### Nota final
-
-- Controles de lectura: 50%
-- Presentaciones orales: 30%
-- Examen: 20%
-
-### Sobre inasistencias a controles de lectura:
-
-El  examen reemplaza automáticamente la peor nota de control de lectura (incluyendo una ausencia injustificada) sin necesidad de justificación.
-
-Si se falta a un control de lectura y se presenta una justificación formal, el examen reemplaza esa ausencia, pero no reemplaza la peor nota de los controles de lectura asistidos o de alguna inasistencia injustificada.
-
-Si existen dos o más inasistencias justificadas formalmente, el examen reemplaza todas ellas, pero no reemplaza la peor nota de los controles de lectura  asistidos o de alguna inasistencia injustificada.
-
-(los mecanismos de justificación son los establecidos por la escuela)
-
-### Recomendaciones Adicionales
-Les recomendamos comprar un cuaderno para el curso. Donde:
-- Pueden tener una hoja por los dos lados con notas escritas a mano sobre la lectura semanal
-- Tomen apuntes en clase sobre las presentaciones de los estudiantes.
-- El cuaderno lo podrán traer al examen.
-
-### Para Participar como Oyente
-
-- Es posible participar como oyente de manera presencial para personas ajenas a la comunidad de la Universidad de Chile.
-- Ingrese a las dependencias de la Facultad de Ciencias Físicas y Matemáticas (Avenida Beauchef 851), regístrese como invitado y diga que asiste a una actividad de extensión del Departamento de Ciencias de la Computación para luego dirigirse a la sala de clases **B08**.
-- En caso de que la concurrencia supere el espacio de la sala se le dará prioridad a los alumnos inscritos al curso y buscaremos la forma de grabar las clases.
-- No habrá registro de participantes ni ofrecemos certificación alguna.
-
 
 
 
