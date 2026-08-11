@@ -4,6 +4,8 @@
 
 Profesores: [Felipe Bravo Márquez](https://felipebravom.com/) y [Claudio Gutierrez](https://users.dcc.uchile.cl/~cgutierr/)
 
+Sala: N11, Martes 12:00 - 14:00
+
 ## Descripción general
 
 El curso tiene como propósito desarrollar en los y las estudiantes la capacidad de analizar críticamente la arquitectura conceptual, los fundamentos científico técnicos y las tradiciones que sustentan la Inteligencia Artificial contemporánea. A partir de modelos formales, enfoques computacionales y teorías cognitivas, se estudian los principales paradigmas de la IA y sus bases epistemológicas. Asimismo, el curso busca que evalúen rigurosamente la aplicación de métodos de IA en la modelación de problemas cognitivos y sistémicos, y que examinen con rigor las tendencias actuales del campo, así como sus proyecciones futuras, reconociendo sus límites, implicancias éticas y efectos sociales. En conjunto, el curso promueve una comprensión integrada de la IA que articula perspectivas computacionales, científicas y filosóficas, ancladas en desarrollos técnicos concretos.
@@ -19,9 +21,9 @@ El curso tiene como propósito desarrollar en los y las estudiantes la capacidad
 
 ## Programa semanal
 
-### Semana 1
+### Semana 1 (CG)
 
-**Tema:** ¿Qué es la Inteligencia Artificial?  <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1KAdn1icH1g9al0hdkFWsy4jiP7cqG3Nt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a>  <a href="https://youtu.be/LNxCeJM8yt4"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a> 
+**Tema:** ¿Qué es la Inteligencia Artificial?   <a href="https://notebooklm.google.com/notebook/323d9752-3a51-4ab9-a3c2-0ebe96da21d7"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1KAdn1icH1g9al0hdkFWsy4jiP7cqG3Nt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a>  <a href="https://youtu.be/LNxCeJM8yt4"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a> 
 
 **Lectura obligatoria**
 Russell, S. y Norvig, P.
@@ -39,9 +41,9 @@ Russell, S. y Norvig, P.
 
 ------
 
-### Semana 2
+### Semana 2 (FB)
 
-**Tema:** Agentes <a href="https://notebooklm.google.com/notebook/b3be1d58-b5a0-426c-bf86-ccc791c89fc2"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1dRm_6ZH2Ma0FfKxIdw6uhMWm571PJ37b/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/mugoBn7c2j8"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>     
+**Tema:** Agentes  <a href="https://notebooklm.google.com/notebook/b3be1d58-b5a0-426c-bf86-ccc791c89fc2"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1dRm_6ZH2Ma0FfKxIdw6uhMWm571PJ37b/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/mugoBn7c2j8"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>     
 
 **Lectura obligatoria**
 Russell, S. y Norvig, P.
@@ -61,7 +63,7 @@ Shapira, N., et al.
 
 ------
 
-### Semana 3
+### Semana 3 (CG)
 
 **Tema:** Aprendizaje profundo <a href="https://notebooklm.google.com/notebook/d51220ea-33fd-4876-b746-b22399391c5b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1jSggl-dRO1cByeG6NthWb1JCRzhISSvo/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/Cr9mv56jVow"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>       
 
@@ -88,7 +90,7 @@ Serre, T.
 
 ------
 
-### Semana 4 
+### Semana 4  (FB)
 
 **Tema:** Aprendizaje de representaciones <a href="https://notebooklm.google.com/notebook/c13e49df-a569-4406-9e6d-084e4bc63063"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/11CAvuyW1YE4uk2QYRKV4kLsBy4w2kFbt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/rLZyW7pQhoE"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>    
 
@@ -111,7 +113,7 @@ Chen, T. et al.
 
 ------
 
-### Semana 5
+### Semana 5 (CG)
 
 **Tema:** Aprendizaje por refuerzo <a href="https://notebooklm.google.com/notebook/94bd12d6-24f3-4eb9-95c2-622210d4aec7"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1ZA_fhJQ90mMfDLXLUNbjSivap1BOWaWt/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a><a href="https://youtu.be/H-qOHBCc5Xw"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>    
 
@@ -141,7 +143,7 @@ Silver, D. et al.
 
 
 ------
-### Semana 6
+### Semana 6 (FB)
 
 **Tema:** Lenguaje <a href="https://notebooklm.google.com/notebook/952fc3d1-54d6-4ade-863c-772d2f23665e"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1Nl8LlDwm7-bw3DEEczYBATvgAoH8298Z/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a><a href="https://youtu.be/MexhJT9pM5Q?si=lqYwseEcfJm4k3m0"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>    
 
@@ -176,7 +178,7 @@ Russell, S. y Norvig, P.
 ------
 
 
-### Semana 7
+### Semana 7 (CG)
 
 **Tema:** Percepción y visión <a href="https://notebooklm.google.com/notebook/01bd72f9-2eaf-469c-a831-afa85f9f848b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/1squFQ7j01ghplYxXLCRv0aNIFLvgtYds/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/rHz93Lnr-7I"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>  
 
@@ -205,7 +207,7 @@ Torralba, A. y Efros, A.
 ------
 
 
-### Semana 8
+### Semana 8 (FB)
 
 **Tema:** Robótica <a href="https://notebooklm.google.com/notebook/b223e534-ac98-4218-b4b6-b1c89efb205b"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/19Gqe_aUC4vZHltK5E8oBUG3KIP4d9QSd/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/v1w8c3sOs3g"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>  
 
@@ -236,7 +238,7 @@ International Federation of Robotics.
 
 ------
 
-### Semana 9
+### Semana 9 (CG)
 
 **Tema:** Razonamiento y conocimiento <a href="https://notebooklm.google.com/notebook/77779640-1cf0-4a8b-b208-61279d37c2fc"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>  <a href="https://docs.google.com/presentation/d/19nPlVqwxt6vE-y-GO7bmbX1etmozhtJU/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/Q92wQJf8idU?si=DRLWdtSGNgIofZAG"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>  
 
@@ -266,7 +268,7 @@ Besold, T. R. et al.
 
 ------
 
-### Semana 10
+### Semana 10  (FB)
 
 **Tema:** Cognición y Mente <a href="https://notebooklm.google.com/notebook/71102a05-9276-4d86-a572-add072f6612e"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1S_yU4I6W3FY5-Zg6YfGuCPeML-MQRYvQ/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a>  <a href="https://youtu.be/2XbzHbA5UvM?si=k3klWGn7ir2vYL2v"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>  
 
@@ -294,7 +296,7 @@ Bermúdez, J.
 
 ------
 
-### Semana 11
+### Semana 11 (CG)
 
 **Tema:** Conciencia <a href="https://notebooklm.google.com/notebook/bdd8bdf1-3076-4546-a72b-d06de6e9cd78"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a> <a href="https://docs.google.com/presentation/d/1jWYAyS6Oupr8qeKsMGXV7r_jrRaALxi4/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a>  <a href="https://youtu.be/KrN4cdSkR10"><img src="assets/yt_icon.png" alt="Clase" width="30" style="vertical-align: middle;" /></a>  
 
@@ -324,7 +326,7 @@ Bermúdez, J.
 
 
 
-### Semana 12
+### Semana 12 (FB)
 
 **Tema:** Interpretabilidad, equidad y ética <a href="https://notebooklm.google.com/notebook/c8700c83-c229-4ab7-a01a-e62ba90dd97d"><img src="assets/notebooklm.png" alt="NotebookLM" width="30" style="vertical-align: middle;" /></a>
 <a href="https://docs.google.com/presentation/d/1900VjyEmGrZexcd24oyDg84x8TU0v6Ki/edit?usp=sharing&ouid=113353111235381255458&rtpof=true&sd=true"><img src="assets/slides.png" alt="Slides" width="30" style="vertical-align: middle;" /></a> <a href="https://youtu.be/ExejBarZG1M
