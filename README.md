@@ -108,6 +108,7 @@ Chen, T. et al.
 **Lecturas complementarias**
 
 - Torralba, A., Isola, P. y Freeman, W. [Foundations of Computer Vision, Capítulo 30: Representation Learning](https://drive.google.com/file/d/1xmRNXCkn1elabuq7k7wSqcGcAwdz60NU/view?usp=sharing)
+- Liu, Z. y Sun, M. [Representation Learning and NLP](https://drive.google.com/file/d/1G0itKdFQb3UI9qTFBOYaPrWC4OeZ9caP/view?usp=sharing)
 - Hinton, G. [Nobel Lecture: Boltzmann machines](https://drive.google.com/file/d/1VeUyvzx-HmnvD4g7sZnJ-z2sZVXjU57l/view?usp=sharing)
 
 
