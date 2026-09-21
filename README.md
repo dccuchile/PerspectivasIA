@@ -217,10 +217,7 @@ Torralba, A. y Efros, A.
 
 
 **Lectura obligatoria**
-Bermúdez, J.
-[Introduction to Cognitive Science, Capítulo 14 - Robotics: From GOFAI to Situated Cognition and Behavior-Based Robotics](https://drive.google.com/file/d/1FWcsPcqKj4R7DepA3iban4b8i0y8lg9v/view)
-<br>
-  <a href="https://drive.google.com/file/d/1bS7s_OFjr5QOrth6JLuhWyny5Vtc5UH4/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1NRfMjMww449IBP1jJBKK0kLmTM2WFFR6/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1I9yw8dVVtYPZrOUXITyK795JbG5r9ViK/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1SzPeQV5ONrpgkfUw23DloLsMtoi8szuf/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
+Sapkota. R. et al. [Vision-Language-Action Models: Concepts, Progress, Applications and Challenges](https://drive.google.com/file/d/1xC_iXCM4eQbb7MaEnSXFjrPiiMIlWkKB/view?usp=sharing)
 
 
 **Presentación estudiantes**
@@ -230,12 +227,14 @@ Bermúdez, J.
 [Artificial Intelligence in Robotics, 3ra edición](https://drive.google.com/file/d/1qsgSOjWFtIiTc8B3epSL18EmBe_MxA6u/view?usp=sharing)
 
 **Lecturas complementarias**
-
 - Capuano, F. et al.
   [Robot Learning: A Tutorial](https://drive.google.com/file/d/1f-SqY_0GHOUmGTGgY8xJVuw_nlwf2ejM/view)
 - Russell, S. y Norvig, P.
   [Artificial Intelligence: A Modern Approach, 4th Edition, Capítulo 26](https://drive.google.com/file/d/1SQX3EYQjANTQG3WsaW3-mTcK7DN1r93F/view?usp=sharing)
-
+- Bermúdez, J.
+[Introduction to Cognitive Science, Capítulo 14 - Robotics: From GOFAI to Situated Cognition and Behavior-Based Robotics](https://drive.google.com/file/d/1FWcsPcqKj4R7DepA3iban4b8i0y8lg9v/view)
+<br>
+  <a href="https://drive.google.com/file/d/1bS7s_OFjr5QOrth6JLuhWyny5Vtc5UH4/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1NRfMjMww449IBP1jJBKK0kLmTM2WFFR6/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1I9yw8dVVtYPZrOUXITyK795JbG5r9ViK/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1SzPeQV5ONrpgkfUw23DloLsMtoi8szuf/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 
 ------
