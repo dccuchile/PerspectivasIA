@@ -217,7 +217,8 @@ Torralba, A. y Efros, A.
 
 
 **Lectura obligatoria**
-Sapkota. R. et al. [Vision-Language-Action Models: Concepts, Progress, Applications and Challenges](https://drive.google.com/file/d/1xC_iXCM4eQbb7MaEnSXFjrPiiMIlWkKB/view?usp=sharing)
+Sapkota. R. et al. [Vision-Language-Action Models: Concepts, Progress, Applications and Challenges](https://drive.google.com/file/d/1xC_iXCM4eQbb7MaEnSXFjrPiiMIlWkKB/view?usp=sharing) <br>
+  <a href="https://drive.google.com/file/d/1XHnam5uZV0blGHfZ1OeTvb298j-YhXxX/view?usp=drive_link"><img src="assets/audio_ES.png" alt="audio_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1QIYZouVii9gb427bTC6-b4k_aiXG1M-H/view?usp=drive_link"><img src="assets/video_ES.png" alt="video_ES" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1uXcc5cLHcEl-RwFa-c7qh7djsmSfRrb9/view?usp=drive_link"><img src="assets/audio_EN.png" alt="audio_EN" width="30" style="vertical-align: middle;" /></a> <a href="https://drive.google.com/file/d/1QXvmEVMEt_4tQQdA2sbUZoG6qTy-R-J8/view?usp=drive_link"><img src="assets/video_EN.png" alt="video_EN" width="30" style="vertical-align: middle;" /></a>
 
 
 **Presentación estudiantes**
